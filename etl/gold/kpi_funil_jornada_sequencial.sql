@@ -32,19 +32,19 @@ etapa_6 AS (
     SELECT DISTINCT fe.usuario_id
     FROM silver_db.fact_engajamento fe
     JOIN etapa_5 e5 ON fe.usuario_id = e5.usuario_id
-    WHERE acao = 'clique_botao' AND evento = 'ler_minibook'
+    WHERE evento ILIKE '%minibook%'
 ),
 etapa_7 AS (
     SELECT DISTINCT fe.usuario_id
     FROM silver_db.fact_engajamento fe
     JOIN etapa_6 e6 ON fe.usuario_id = e6.usuario_id
-    WHERE acao = 'clique_botao' AND evento = 'ler_ebook'
+    WHERE evento ILIKE '%ebook%'
 ),
 etapa_8 AS (
     SELECT DISTINCT fe.usuario_id
     FROM silver_db.fact_engajamento fe
     JOIN etapa_7 e7 ON fe.usuario_id = e7.usuario_id
-    WHERE acao = 'clique_botao' AND evento = 'ouvir_audiobook'
+    WHERE evento ILIKE '%audiobook%'
 )
 
 SELECT 'Instalacao' AS etapa, COUNT(*) AS usuarios_unicos FROM etapa_1
