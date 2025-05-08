@@ -86,6 +86,28 @@ Indicadores agregados prontos para visualização no Power BI:
 
 ---
 
+## 📊 Modelo Estrela – Fluxo de Tabelas (Mermaid)
+
+```mermaid
+erDiagram
+    dim_usuario ||--o{ fact_engajamento : usuario_id
+    dim_usuario ||--o{ fact_aquisicao : usuario_id
+    dim_usuario ||--o{ fact_retencao : usuario_id
+
+    dim_campanha ||--o{ fact_aquisicao : campanha
+    dim_dispositivo ||--o{ fact_aquisicao : (plataforma, marca, modelo)
+    dim_conteudo ||--o{ fact_engajamento : tipo_conteudo
+    dim_evento ||--o{ fact_engajamento : (acao, evento)
+
+    fact_engajamento ||--o| kpi_funil_jornada_sequencial : fonte
+    fact_aquisicao ||--o| kpi_cpa_por_canal : fonte
+    fact_retencao ||--o| kpi_retencao_faixa_etaria : fonte
+    fact_engajamento ||--o| kpi_dau_mau_stickiness : fonte
+    fact_engajamento ||--o| kpi_mensal_stickiness : fonte
+```
+
+---
+
 ## ✅ Resultado Esperado
 
 Um painel gerencial com:
