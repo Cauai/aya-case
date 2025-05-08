@@ -1,5 +1,3 @@
-CREATE SCHEMA IF NOT EXISTS silver_db;
-
 CREATE TABLE IF NOT EXISTS silver_db.dim_campanha AS
 SELECT DISTINCT
     fonte_midia,         -- Ex: Facebook Ads, Orgânico
