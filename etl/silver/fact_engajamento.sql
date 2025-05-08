@@ -1,8 +1,9 @@
-CREATE TABLE IF NOT EXISTS silver_db.fact_retencao AS
+CREATE TABLE IF NOT EXISTS silver_db.fact_engajamento AS
 SELECT
     usuario_id,
-    dias_engajamento,
-    engajamento_dias_leitura,
-    retencao_status
-FROM bronze_db.cdp
-WHERE usuario_id IS NOT NULL;
+    data_hora,
+    SPLIT_PART(evento, ':', 1) AS evento,
+    SPLIT_PART(evento, ':', 2) AS acao,
+    SPLIT_PART(evento, ':', 2) AS tipo_conteudo
+FROM bronze_db.ga4
+WHERE evento LIKE '%:%';
