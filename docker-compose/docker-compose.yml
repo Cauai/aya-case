@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:14
+    container_name: aya_postgres
+    environment:
+      POSTGRES_USER: aya_user
+      POSTGRES_PASSWORD: aya_pass
+      POSTGRES_DB: aya_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - aya_net
+
+  python:
+    image: python:3.11
+    container_name: aya_python
+    volumes:
+      - ../:/app
+    working_dir: /app
+    command: tail -f /dev/null  # mantém o container rodando
+    networks:
+      - aya_net
+
+volumes:
+  postgres_data:
+
+networks:
+  aya_net:
+    driver: bridge
