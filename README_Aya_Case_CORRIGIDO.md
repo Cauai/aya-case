@@ -95,9 +95,9 @@ erDiagram
     dim_usuario ||--o{ fact_retencao : usuario_id
 
     dim_campanha ||--o{ fact_aquisicao : campanha
-    dim_dispositivo ||--o{ fact_aquisicao : (plataforma, marca, modelo)
+    dim_dispositivo ||--o{ fact_aquisicao : dispositivo_id
     dim_conteudo ||--o{ fact_engajamento : tipo_conteudo
-    dim_evento ||--o{ fact_engajamento : (acao, evento)
+    dim_evento ||--o{ fact_engajamento : evento_id
 
     fact_engajamento ||--o| kpi_funil_jornada_sequencial : fonte
     fact_aquisicao ||--o| kpi_cpa_por_canal : fonte
