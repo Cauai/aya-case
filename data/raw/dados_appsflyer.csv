@@ -1,0 +1,1001 @@
+usuario_id,data_instalacao,fonte_midia,custo,plataforma,versao_app,marca,modelo,canal
+dcdff191-8e4f-4672-aa21-61ddd6e16b65,2025-01-14 17:47:08,Orgânico,0.0,Android,1.1,LG,Wing,mms
+5d5dfeaa-bb0c-4766-ad94-7135abe976f8,2025-03-21 11:19:42,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+f081b639-9f96-415a-b139-a37336b25350,2025-03-09 19:15:05,Facebook Ads,4.838844619102944,iOS,2.0,Apple,iPhone 13,sms
+0ea9d453-5d0a-409c-ae9d-a5804bcabb76,2025-01-29 04:05:52,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,push
+a1da2ac0-2c8c-459e-88a7-99207549a541,2025-03-15 05:39:23,Facebook Ads,4.9418307867927265,iOS,1.2,Apple,iPhone 12,mms
+e6a81de5-5a94-429c-956c-b690e034bc8d,2025-01-16 12:31:59,Orgânico,0.0,Android,1.0,LG,Wing,mms
+6cdc34da-13e9-44c5-bb2c-9211b93f504f,2025-01-29 08:52:18,Orgânico,0.0,Android,1.0,LG,Velvet,sms
+fcdf2fad-3513-46ad-a211-a12c649b58b0,2025-03-24 20:23:19,Facebook Ads,1.00489355231054,Android,2.0,LG,Velvet,email
+33c8465b-1ba8-4847-8420-f61df8b0edf0,2025-01-11 00:58:32,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,mms
+68a3ed4c-3fb7-415c-a293-32310b93722f,2025-03-25 14:02:34,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,email
+8e3503ce-280a-4d24-a45b-561c6e2ead8d,2025-03-06 11:15:41,Google Ads,1.3197052300153305,Android,1.1,Motorola,Moto G Power,email
+cb92b89f-e7ce-4844-9650-04fba150af17,2025-02-19 16:42:28,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,mms
+aeb8446f-1ebc-47fe-a050-b5796365f4a5,2025-03-11 04:38:47,Google Ads,1.5130048306739965,iOS,1.2,Apple,iPhone 12,push
+f3d581be-b4d1-446b-9847-24d9bb03345d,2025-01-23 18:30:40,Google Ads,4.85988475270703,Android,2.0,Motorola,Moto G Power,sms
+3136111e-1606-4d4b-8213-565b247e05ef,2025-03-11 16:41:06,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,email
+797e14d7-dd98-48e4-b0a8-a3549954f1a5,2025-01-03 15:46:29,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,email
+a08c7975-82cf-4fae-b44b-3f4a7b905105,2025-02-04 06:31:32,Google Ads,4.416294102325491,iOS,1.2,Apple,iPhone 12,push
+b3f1a3f6-2301-4204-a1dd-ad5f3aef32be,2025-01-23 14:31:51,Google Ads,2.3949368076429702,iOS,1.0,Apple,iPhone 13,email
+9545b2a1-d503-4024-a6c6-0af43055bd31,2025-02-25 05:44:40,Google Ads,1.1027731454406944,Android,1.1,LG,Velvet,sms
+53c400a4-33fd-4b1e-95d7-1ef993d64197,2025-01-29 18:40:33,Orgânico,0.0,Android,2.0,Samsung,Galaxy S21,email
+ed727cfb-b71e-4be2-a0e4-643e1a9a0ae9,2025-01-27 20:18:23,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,mms
+9c7b8a8d-3b52-4904-8f7a-537dec2d30d6,2025-03-12 14:48:23,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,email
+eae58579-7fa8-421e-815e-79cfca193bde,2025-02-01 04:42:43,Orgânico,0.0,Android,1.1,Samsung,Galaxy M32,email
+7221f71c-edbd-4365-8eb4-2d8eaf08bdcb,2025-03-23 07:14:25,Google Ads,0.8549297195416927,Android,1.2,Xiaomi,Poco X3,email
+1faf8869-fcf0-4f39-a22b-8db5fb3e1b59,2025-01-20 07:55:07,Google Ads,1.8283207825180983,Android,1.2,Motorola,Moto Edge,mms
+7b6e6c8c-f6bc-4599-9a5f-ccf50e1c277c,2025-01-23 16:35:43,Facebook Ads,4.376104041984795,Android,1.2,Motorola,Moto G Power,push
+1a80530f-a671-441e-a9ce-200c105cf99d,2025-01-30 14:19:01,Google Ads,3.736865373541324,Android,2.0,Xiaomi,Redmi Note 10,sms
+8c9ed532-cbf0-44ec-9d3c-194bc73caf6f,2025-01-08 11:46:36,Facebook Ads,3.742826219884966,Android,1.1,LG,K51,push
+00fc1b38-a695-434a-944c-68e7776ed3ae,2025-02-26 15:48:12,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,email
+df2fa2f6-13d1-445f-bd07-8cb3d554f313,2025-03-28 02:30:39,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,email
+364182d5-26ba-42a9-9e89-532839f51f6b,2025-02-21 21:29:55,Facebook Ads,1.4035651072545974,iOS,1.1,Apple,iPhone 12,push
+1fdbdcd0-d0c4-42b9-9dca-e5d12ce2b5e2,2025-03-26 20:07:44,Facebook Ads,2.4116148357997047,Android,1.1,Samsung,Galaxy M32,push
+70267eab-32d9-4e28-9792-5922de36c751,2025-01-17 01:28:07,Facebook Ads,4.966147671355465,Android,2.0,LG,Velvet,email
+5d0d17c4-653f-49e2-8741-cf9ccfec047f,2025-03-10 08:55:58,Facebook Ads,3.0766916490225045,iOS,1.2,Apple,iPhone SE,push
+33c453e2-251e-4d80-87c1-73060cbb87a1,2025-03-25 10:33:25,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,email
+e1847c7a-6f55-4c08-9726-74bf081428ae,2025-03-01 11:07:04,Facebook Ads,4.680303563886106,Android,2.0,Xiaomi,Redmi Note 10,email
+f44548b4-3572-4cc2-9739-3519b7465d41,2025-01-12 04:48:58,Google Ads,4.864985414801538,Android,2.0,Samsung,Galaxy M32,email
+3a2a39cb-fd6a-4e87-8952-eb68931ef95b,2025-03-24 21:12:36,Orgânico,0.0,Android,1.1,LG,Wing,email
+5bcd02b8-b604-4bc6-b7ed-90fc169c2666,2025-02-20 16:43:51,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,mms
+8508cb19-011f-4389-b6e0-6467769adff2,2025-02-22 20:45:32,Facebook Ads,4.279135152629576,iOS,1.1,Apple,iPhone SE,email
+01394037-c58c-4afb-a570-6e83f5ddfb7f,2025-03-27 16:38:11,Google Ads,0.7880710144664291,Android,2.0,Motorola,Moto G Stylus,email
+ad8bf3ad-2463-45f8-ab1b-5b42b07028d0,2025-02-01 08:58:35,Google Ads,0.11745547222085222,Android,1.0,Samsung,Galaxy A52,mms
+65ee4f7a-8a44-4ee1-b050-c55d9ae7a2fc,2025-03-23 20:03:12,Facebook Ads,3.674882199642414,Android,1.2,Xiaomi,Mi 11,sms
+5be8c394-49c4-4971-995f-13402624b352,2025-03-08 04:16:40,Google Ads,3.0581775830411897,iOS,1.1,Apple,iPhone 13,push
+86ba11db-d82f-41aa-99b8-8616293beabf,2025-03-16 08:36:28,Google Ads,0.2684952129630367,Android,1.0,Motorola,Moto G Power,push
+31ac1cc0-dbf8-4398-a0cc-5fb25b78ed7d,2025-02-21 21:21:30,Google Ads,2.812873907766922,iOS,1.2,Apple,iPhone 13,push
+e0bd078b-313d-4028-aff2-8a6978f928c0,2025-01-04 22:51:45,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,email
+a1b82f3d-4b37-42e6-bcb9-d08cf7524651,2025-03-25 23:22:04,Google Ads,3.774727965855286,Android,2.0,Xiaomi,Poco X3,sms
+78c9af52-37bc-4e2d-9eda-4a38350ec05c,2025-03-13 19:59:39,Facebook Ads,4.321910740800989,Android,2.0,Samsung,Galaxy A52,email
+3232d1d4-6672-4005-ba0b-3a64b828c801,2025-01-23 13:16:54,Orgânico,0.0,Android,1.1,Motorola,Moto G Power,sms
+ba6686dd-6fc8-4056-960b-b17caf11f18d,2025-01-09 18:04:16,Google Ads,0.537230384882174,iOS,1.0,Apple,iPhone SE,email
+e4c570b5-1c10-4232-b052-ed78a34b251d,2025-03-10 08:49:15,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,mms
+efde9bbd-9e49-4504-a29e-3982ceda78d1,2025-01-25 09:45:13,Facebook Ads,4.001546374654981,iOS,1.2,Apple,iPhone SE,mms
+3efb1933-36cb-45fd-a3c4-97293c0f95ff,2025-03-13 03:33:07,Facebook Ads,0.4206361127767654,Android,2.0,Samsung,Galaxy S21,mms
+fced66f5-0cf2-494b-bb85-dfa5d17cabd5,2025-03-20 18:47:19,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,email
+552a5378-d035-47f7-80e3-64ec73e5a918,2025-01-06 22:17:07,Google Ads,3.9369832146395916,Android,1.1,Xiaomi,Mi 11,email
+7b1bc7b0-f784-4aea-9e72-b689057ec15c,2025-01-19 15:46:43,Facebook Ads,2.6936637014345894,Android,1.1,LG,Wing,push
+ef391c4e-27b6-42a8-98ea-24535ccf63ec,2025-01-25 14:53:21,Google Ads,3.411415872530351,Android,1.1,LG,Velvet,email
+7ebfea00-174b-4d96-af51-68e297067f95,2025-01-04 04:00:08,Google Ads,1.1439054788062986,Android,1.1,LG,Wing,push
+96a3b751-2d5b-4b75-9964-016dedb5f834,2025-01-19 02:08:39,Google Ads,4.807509288339936,iOS,1.1,Apple,iPhone 12,sms
+2688d0ba-7abc-41d4-92b6-f9d21ac7361f,2025-01-13 00:28:09,Orgânico,0.0,Android,1.2,Xiaomi,Mi 11,push
+3c837553-ec26-426c-8a78-315c7269bdfc,2025-01-11 09:11:02,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,mms
+2a1be7db-e3ad-4008-98e5-96fd737e28a7,2025-01-02 18:23:58,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,push
+ce6c82b2-a64e-4fa1-a4b0-0a46fedd5806,2025-03-10 19:56:32,Orgânico,0.0,Android,1.0,Xiaomi,Mi 11,push
+ac755ad3-24e0-402f-884e-c1271e883449,2025-02-01 23:13:58,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,mms
+f0eab840-fcb5-44bb-8924-dff09244258e,2025-01-26 11:09:10,Orgânico,0.0,Android,2.0,Xiaomi,Mi 11,mms
+2bb6e3e3-8df7-4d54-bf5a-4974b08f4e0c,2025-01-26 14:21:48,Google Ads,3.4114498831126077,iOS,1.0,Apple,iPhone 13,push
+970b6957-a5e3-47a5-be52-46daf572a0ab,2025-01-23 23:30:47,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,sms
+6ab57265-d61a-43f5-bee5-d94ba9144567,2025-01-09 09:51:55,Google Ads,0.17060364143398216,iOS,1.2,Apple,iPhone 12,email
+a7485597-8254-4c17-8f34-7206dbbe8b0a,2025-03-02 16:21:00,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,push
+efb156b3-2e14-4ff3-a434-f1be299409a8,2025-01-19 09:59:24,Google Ads,2.678200862904318,iOS,1.0,Apple,iPhone 12,email
+6e1d1d95-a857-48d7-9fc1-5c2937a438f3,2025-03-02 01:18:09,Facebook Ads,2.6392473095661773,Android,1.2,Samsung,Galaxy M32,sms
+65de72e9-c9e7-4a27-9e94-7c051bfd5c83,2025-02-24 10:31:15,Google Ads,3.7313458895557465,Android,1.0,LG,Velvet,sms
+7059c1a7-2613-46ed-9462-716648acbd05,2025-02-13 10:46:22,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,email
+8e562dea-10e3-4ac3-8cf2-f58ecddf913d,2025-03-30 18:24:05,Facebook Ads,0.3334462715347948,iOS,1.0,Apple,iPhone 12,push
+e0568ca0-c786-4100-b0f7-a357b33909cb,2025-02-25 05:00:55,Google Ads,1.124616279740072,iOS,2.0,Apple,iPhone 13,sms
+59148135-c6d1-4ecf-bd9a-c8426ede8ed4,2025-02-27 17:31:13,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,email
+2f9ffd6c-a338-450e-83ac-6457e7090ea4,2025-03-08 10:18:18,Facebook Ads,1.4222144619300936,Android,1.0,Samsung,Galaxy A52,email
+093ad6ec-aec4-473f-bae2-0fe08c594472,2025-01-12 09:09:59,Facebook Ads,2.6522108008318437,iOS,1.1,Apple,iPhone SE,push
+73c617ba-fd41-4da7-90a1-632221e0ef80,2025-02-24 02:25:02,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,push
+0f83fb3c-01d9-48b5-8ba0-12adc865bc26,2025-01-03 09:01:04,Orgânico,0.0,Android,2.0,LG,K51,push
+74a84c89-146b-4c7a-99af-a37b25e75a80,2025-03-13 22:04:53,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,push
+e725c87e-54d3-4651-85af-4768844a6598,2025-01-26 19:40:02,Facebook Ads,0.48621893438026187,iOS,1.2,Apple,iPhone SE,push
+f55b35ce-29b4-4257-850e-590068553a23,2025-02-04 21:24:09,Google Ads,3.9515461024318497,iOS,1.0,Apple,iPhone 13,sms
+06e408b5-de12-4db3-bfd8-a525a14bebf6,2025-01-21 22:14:34,Facebook Ads,1.1513217295891482,iOS,1.0,Apple,iPhone 12,mms
+d4aa523c-8c98-41d8-8de3-69bb5eac670f,2025-02-08 13:51:48,Google Ads,3.0255882130271767,iOS,1.2,Apple,iPhone 12,mms
+4ccb7075-5ec5-4588-80f7-fcdd6e69cbe8,2025-03-03 15:15:40,Google Ads,2.3701195031679485,iOS,1.2,Apple,iPhone 13,push
+1ca565da-4b4a-43c5-89d9-efc0eb29956c,2025-03-16 00:17:37,Facebook Ads,3.4306152314175247,Android,1.2,Motorola,Moto G Stylus,mms
+156e0c95-7dd2-4a7f-ac45-346e216d3ffd,2025-01-03 01:39:28,Orgânico,0.0,Android,1.2,LG,Wing,push
+307c0d80-ec4f-466f-9a2f-01f1c7dcc07b,2025-03-24 06:01:18,Google Ads,0.4706543340667936,Android,1.2,Xiaomi,Mi 11,mms
+cdcb437d-6c80-4fb5-9a98-187f781bf320,2025-01-16 03:43:06,Google Ads,1.1481980339727615,iOS,1.2,Apple,iPhone SE,mms
+87b1d608-9211-4ce0-8193-7eb8216aeb01,2025-03-29 00:24:36,Orgânico,0.0,Android,1.0,Xiaomi,Mi 11,email
+539c1d22-e949-427a-8ecf-ba8a8e58006b,2025-02-22 03:05:12,Google Ads,4.811044304258068,Android,1.1,Samsung,Galaxy S21,email
+b4d0385c-06de-4b7f-81c6-70f6aef40e7c,2025-03-02 22:58:02,Facebook Ads,0.9190212386599902,iOS,1.2,Apple,iPhone 13,email
+e8452e31-19ac-442f-a494-351d036c70e1,2025-02-15 19:15:33,Google Ads,4.847694668396507,Android,1.2,LG,Velvet,sms
+3aeadabf-a80b-4881-a926-0694ce9894bb,2025-03-18 14:08:30,Facebook Ads,2.7058009643186534,Android,2.0,Xiaomi,Poco X3,email
+264a0e39-1d91-4c12-9274-22a6754aa631,2025-03-25 17:44:39,Google Ads,1.9577145537109235,Android,1.0,LG,K51,email
+6941dcf7-b907-46ca-bffe-b44fda41c253,2025-03-09 07:14:14,Google Ads,2.451606114769927,Android,1.0,LG,K51,email
+089fceaf-3c59-4b8c-a84b-968ba0a44000,2025-02-02 06:19:50,Facebook Ads,0.10441723282551107,Android,1.1,Motorola,Moto G Power,push
+1d73e149-a528-4056-92c4-971bab1a671c,2025-01-05 15:15:57,Facebook Ads,1.6788912289410582,Android,2.0,Xiaomi,Poco X3,push
+b6cb3e75-55ad-4417-8a0c-b0e622a248cc,2025-03-27 01:48:34,Google Ads,2.755918222330485,Android,1.2,LG,Velvet,sms
+0886a57d-2316-49c1-b222-3c037a57829e,2025-03-06 20:22:15,Facebook Ads,4.942421912709866,iOS,1.2,Apple,iPhone SE,sms
+d8c8ec46-3b3a-414c-8185-7c8168115494,2025-02-24 09:06:05,Google Ads,4.03529605127139,iOS,1.2,Apple,iPhone 12,push
+c75d2df4-7d91-4c38-b0e5-88c9c3d386c1,2025-03-30 05:32:45,Google Ads,1.0046681868057235,iOS,1.0,Apple,iPhone 12,sms
+43cfd1b8-a3d9-4135-b0ba-a9d2c0958be9,2025-01-30 05:24:38,Facebook Ads,1.1560169106544333,Android,1.2,Motorola,Moto Edge,mms
+3990c6aa-9d31-49df-9a56-fb41ba8eb299,2025-01-15 09:21:06,Facebook Ads,3.117540441834218,Android,1.0,Xiaomi,Mi 11,push
+52162030-57b9-454e-b78f-b4c5a7c9f31e,2025-01-22 18:41:55,Facebook Ads,1.9707871215548465,iOS,1.1,Apple,iPhone 12,mms
+f2a685fc-681e-4e17-90d7-552cbef9c236,2025-03-19 10:46:53,Google Ads,1.1619010056752752,iOS,1.2,Apple,iPhone 12,mms
+92f7e52f-b5eb-4ea0-bd96-93961c2d5cbb,2025-02-18 06:46:32,Facebook Ads,3.4264500889963094,Android,1.1,Samsung,Galaxy A52,push
+3cf9c90f-c042-4862-ae28-93c71cbfe3f0,2025-02-21 12:52:21,Orgânico,0.0,Android,1.1,Xiaomi,Mi 11,email
+190d9586-5b13-4fe2-9c74-a07d76a43eb2,2025-03-19 15:22:25,Orgânico,0.0,Android,2.0,Xiaomi,Mi 11,mms
+c18c1e96-5305-4422-b476-3bc581270941,2025-01-20 05:01:47,Google Ads,1.177304198682859,Android,1.1,Samsung,Galaxy A52,email
+0a2bb9fe-230c-472f-a4ad-1151bd4ba345,2025-01-26 16:47:31,Facebook Ads,0.7295719468052109,iOS,2.0,Apple,iPhone 13,email
+e1a02073-158d-49f8-ad93-06a08d1c4db2,2025-01-17 02:53:48,Google Ads,4.5581689858753816,Android,1.0,Motorola,Moto G Power,email
+8aca7093-8b3f-4cad-acbe-732da218c656,2025-01-16 16:28:06,Google Ads,2.886485500364001,Android,2.0,Xiaomi,Mi 11,email
+e123e5d7-2d30-4a9d-a417-639d6b373cef,2025-01-03 08:28:20,Facebook Ads,1.928142166296652,Android,2.0,Samsung,Galaxy S21,mms
+6392f6e2-bcb1-482c-ab38-a71c96b3252b,2025-01-13 23:28:23,Facebook Ads,3.3343398043215986,Android,1.1,LG,Wing,push
+ffc9ac4e-8534-4f2d-9491-a3492eedc386,2025-03-18 01:02:55,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,sms
+624b9410-2f06-49cc-b861-801e39a4e627,2025-03-14 03:30:53,Google Ads,4.859443904489663,Android,1.0,Samsung,Galaxy A52,email
+2ec947b8-4445-424f-84f7-29cdf46132e0,2025-01-25 07:34:11,Google Ads,1.4057456323407904,Android,1.1,Motorola,Moto G Stylus,mms
+2c5048aa-f43b-48d9-a4ad-45b8bbce1e14,2025-01-17 18:43:50,Orgânico,0.0,Android,1.2,LG,Velvet,sms
+cd153332-0e5d-4e78-bf25-99445e7fb117,2025-03-15 02:44:12,Facebook Ads,1.4701776670492437,Android,1.1,Samsung,Galaxy M32,push
+4b53cb57-beb7-4476-804e-2a6c3168bb00,2025-02-23 17:05:44,Facebook Ads,0.8575051390019929,Android,2.0,Motorola,Moto Edge,mms
+172ef025-701f-4bd1-afb5-fcc9fe7ad2f3,2025-01-28 07:18:21,Facebook Ads,4.332102091527678,Android,2.0,Xiaomi,Mi 11,mms
+e9dcedb2-c43c-4e7c-b498-876b40e52e7f,2025-03-20 04:20:51,Orgânico,0.0,Android,1.0,LG,Velvet,email
+a86f2618-b2a3-4b0a-b9a2-1bcaf271b589,2025-01-06 03:49:00,Facebook Ads,2.8663957710546555,iOS,1.2,Apple,iPhone SE,push
+9eee553f-c8b0-4a52-8be9-3701bcba5d61,2025-01-09 20:20:32,Facebook Ads,3.3292090563350825,iOS,2.0,Apple,iPhone 13,sms
+89a97879-3c9d-46e9-ab9b-c80acd267667,2025-02-24 07:01:15,Google Ads,0.9344499003101331,Android,1.0,LG,Wing,sms
+d2ddd0a9-f1ab-4490-8c22-1893104f55df,2025-02-19 09:30:14,Google Ads,3.3392718008259754,iOS,1.2,Apple,iPhone 12,push
+742eb88b-229d-4b53-9922-d0032ea06405,2025-01-16 03:07:58,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,email
+507b9464-7f35-403c-95ed-a5f15f02ffee,2025-03-28 10:25:23,Facebook Ads,4.807060148441008,Android,2.0,LG,Wing,sms
+57ed30f3-15b4-4c1f-9e2d-e1e0df37d979,2025-01-20 13:04:12,Facebook Ads,2.152839673405454,iOS,2.0,Apple,iPhone SE,email
+24a0adf0-bb2e-4e00-b9b2-9c122cd268fa,2025-02-15 10:44:02,Facebook Ads,2.8997889027871735,iOS,1.2,Apple,iPhone SE,sms
+a251d604-61b6-4750-926e-de86839ebf31,2025-02-28 19:27:17,Facebook Ads,0.7418247606885257,Android,2.0,LG,Wing,push
+62a46d53-c1ea-4779-97ec-19e45da1ab3a,2025-02-16 20:07:02,Facebook Ads,0.7464320831337949,iOS,1.1,Apple,iPhone 13,push
+9c1b3912-5ddd-4da3-91bb-67afd07151da,2025-01-03 18:59:32,Facebook Ads,0.3010678373997094,iOS,2.0,Apple,iPhone 13,sms
+c8ced0f7-6e49-4330-9714-e1ad487f98db,2025-01-06 17:20:16,Facebook Ads,1.0893950711204545,Android,1.1,Xiaomi,Redmi Note 10,push
+e9c51ef4-f88f-4314-a3a3-199e9799f8be,2025-01-26 02:17:37,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,sms
+0d190abb-5aea-4e16-bac7-7312e510721b,2025-02-27 04:52:36,Facebook Ads,4.042686139235963,Android,1.2,Samsung,Galaxy M32,email
+75a9d627-565c-4964-b328-8a00a29854e3,2025-03-28 15:15:28,Orgânico,0.0,Android,1.1,Samsung,Galaxy M32,email
+d5c4ce15-e654-4f45-b24d-7d7683333b23,2025-03-23 03:49:56,Google Ads,0.19205146732498704,Android,1.1,Motorola,Moto G Stylus,push
+f6cdb578-9ef5-4eb5-be0b-35a0bb23412c,2025-02-28 06:35:47,Facebook Ads,4.142449109557298,Android,2.0,Samsung,Galaxy A52,mms
+4f0989d3-5791-4f12-b3bc-c7e006dc7d37,2025-02-14 09:18:41,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,sms
+3e9cee7c-01ce-40c2-8e32-e45b2d68ba2a,2025-01-17 23:11:06,Facebook Ads,0.5697585254914933,Android,1.0,Motorola,Moto Edge,push
+73bc5678-18da-4e36-9f62-a957afaccc28,2025-02-07 21:22:33,Facebook Ads,4.619189923759553,Android,2.0,Motorola,Moto G Stylus,sms
+775c7315-f16f-4b1c-9ba0-5fe31bbd3027,2025-01-26 10:25:04,Google Ads,3.745843827123874,iOS,1.2,Apple,iPhone 13,mms
+7256bf96-35be-4c6a-952a-13330aa4a41f,2025-01-12 14:15:35,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,email
+b0721bc1-af98-41db-b83c-e4ad89b43a9b,2025-03-17 13:26:56,Orgânico,0.0,Android,1.2,Xiaomi,Poco X3,mms
+8e9703bb-b028-4980-a12c-0a2a373c6132,2025-03-14 00:42:37,Facebook Ads,3.805869227978803,iOS,1.1,Apple,iPhone 12,sms
+55c59102-e2dd-45ed-a2db-d3d38039ded8,2025-01-23 14:40:37,Orgânico,0.0,Android,1.2,LG,Velvet,sms
+0b079f8a-c816-429c-939e-06e53fac8dbd,2025-01-20 08:09:41,Google Ads,4.209933578421888,iOS,1.0,Apple,iPhone 13,sms
+532874d9-da7a-4b04-9ad1-ca687816c07d,2025-03-15 22:58:43,Facebook Ads,4.236172635269527,iOS,1.0,Apple,iPhone 13,email
+862575dd-2333-48c5-8000-38d5f675131c,2025-02-01 02:26:11,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,mms
+8bcf44af-e212-46e2-969f-0b2b2f57e12e,2025-03-28 09:42:33,Orgânico,0.0,Android,1.1,LG,Wing,email
+15967fba-c5ba-4348-8c9b-9978f3191ecb,2025-02-17 14:10:29,Google Ads,4.311262139139887,iOS,1.2,Apple,iPhone SE,push
+585de1e3-7043-40b9-8847-0521913fa2cd,2025-03-22 05:35:50,Google Ads,4.8502842639758,Android,1.1,Samsung,Galaxy A52,mms
+3604e364-a6dd-4571-b118-0aa392d34ff4,2025-02-20 13:07:07,Facebook Ads,3.954031753264385,Android,1.2,Xiaomi,Poco X3,mms
+2fa9859f-2f7a-41a7-92af-bd0c18477015,2025-03-29 11:16:26,Google Ads,2.7799790298979383,Android,1.1,LG,K51,mms
+58f8b825-32f0-4aac-a608-ae1900898a77,2025-01-05 11:09:26,Google Ads,3.8534092847516406,iOS,1.1,Apple,iPhone SE,email
+5c9e8c92-b288-416a-9cfd-839b38b0a41f,2025-01-25 12:09:11,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,sms
+df083b07-d54d-45ab-985f-d21c9f0c0ef7,2025-01-15 22:05:48,Orgânico,0.0,Android,2.0,Xiaomi,Poco X3,mms
+0414f776-0d55-44b0-a028-fadcecdb42a6,2025-01-03 16:46:16,Google Ads,3.2300833699481966,iOS,1.2,Apple,iPhone 13,sms
+0ffec911-6edd-4dcf-95a8-8e26f296839c,2025-02-27 11:39:14,Facebook Ads,1.8085247185324438,Android,1.1,Xiaomi,Poco X3,mms
+95330163-aa85-42d9-9335-e490d89d23d5,2025-03-19 10:46:25,Facebook Ads,2.255172518233425,Android,1.1,Motorola,Moto G Power,sms
+5e14e490-3b78-4a9f-9d6e-3014be75ad07,2025-01-05 23:50:19,Facebook Ads,3.5657310912579576,iOS,1.1,Apple,iPhone SE,email
+2649b7ce-521f-47a7-8021-bd832defc2cb,2025-03-26 06:43:15,Facebook Ads,2.866084631005461,Android,1.2,Samsung,Galaxy S21,sms
+da7426e7-4024-4390-b086-9e40bed770fd,2025-03-05 12:15:34,Orgânico,0.0,Android,1.1,Samsung,Galaxy S21,mms
+71a2de5e-3032-4634-ab9e-9393e40dd714,2025-01-16 12:58:13,Facebook Ads,0.36015563852349375,iOS,2.0,Apple,iPhone 12,sms
+8efaf2ee-0b7d-4ec3-a5d8-40b4ccf2ef5b,2025-01-11 14:11:22,Orgânico,0.0,Android,1.1,Samsung,Galaxy S21,push
+2f028a04-fe2c-4fd3-a79c-ea2d4e3e8291,2025-01-29 07:45:27,Facebook Ads,3.063453931979408,iOS,1.2,Apple,iPhone 12,sms
+15befc47-95e5-470b-976c-8da58f67a8b2,2025-01-16 09:51:51,Google Ads,2.5502958637595716,iOS,1.2,Apple,iPhone 13,sms
+c352bc0f-8b50-40f8-8c99-8205641a9e72,2025-01-10 22:10:33,Google Ads,2.5825599002811566,Android,1.0,Motorola,Moto Edge,sms
+29c060fc-0e38-433a-bd47-21079b212435,2025-03-09 03:05:01,Google Ads,4.341333553084146,iOS,1.0,Apple,iPhone 12,mms
+357981b8-0a08-4b81-b402-de62fd61fd57,2025-01-16 08:43:55,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,push
+6d084c74-5e77-43d9-9304-2913586bf895,2025-02-15 20:44:40,Facebook Ads,1.8883625017638908,iOS,2.0,Apple,iPhone 12,mms
+f3ff04e0-96b4-4645-bf57-3b218dae8ce2,2025-01-29 02:39:54,Facebook Ads,3.947142318481733,Android,1.0,Motorola,Moto Edge,email
+ce600698-1016-4755-a2e4-bcfc0851c06e,2025-02-01 03:04:51,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,email
+29eaa917-0ba3-435f-870e-e3fc4b778b96,2025-03-01 21:35:11,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,sms
+994b2f05-60e2-42e6-9686-d3b4fab305a4,2025-02-23 15:46:04,Google Ads,4.1314893599647045,Android,1.1,LG,Wing,push
+40875f4e-594c-4f1a-a9ac-f07c854e14fd,2025-03-30 09:25:43,Facebook Ads,3.3116219777870706,iOS,1.1,Apple,iPhone 13,email
+5187249a-ea2b-4825-866e-f70f8dcab640,2025-03-22 21:16:22,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,sms
+bd826d79-57a6-4ec7-85b2-facd1f4d782f,2025-03-09 17:12:15,Facebook Ads,3.4797115463376644,iOS,1.2,Apple,iPhone 12,email
+c9362752-0456-4e01-b05e-f0bd080dca17,2025-01-03 04:30:37,Facebook Ads,3.4881683060795448,iOS,1.2,Apple,iPhone 13,email
+06a1cbb5-b993-47e3-89d3-e84b19e3c0c8,2025-01-01 17:09:28,Facebook Ads,3.579217834632695,iOS,1.0,Apple,iPhone 13,push
+cd03c566-c713-42dd-840b-0932830d749c,2025-02-12 01:18:08,Google Ads,0.16969687338947034,iOS,2.0,Apple,iPhone 13,email
+7d88688d-6360-4e51-9b8c-bbc5b3e27753,2025-03-29 14:17:04,Orgânico,0.0,Android,1.0,Samsung,Galaxy S21,mms
+f3326a46-28aa-4c01-842b-5ebda591a0a3,2025-01-01 09:32:26,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,mms
+ce36451e-bc6d-4b72-934f-e8663d4f1301,2025-03-16 02:48:07,Facebook Ads,0.25075839507358355,iOS,1.2,Apple,iPhone SE,push
+a21d318b-5a89-4f32-87a5-f454de07ee09,2025-03-15 19:05:47,Google Ads,2.569413995862305,Android,2.0,Motorola,Moto Edge,email
+160259d1-dd4f-4208-9d10-3e99b22158d0,2025-03-14 17:23:57,Google Ads,2.0620499972274944,iOS,2.0,Apple,iPhone 13,push
+bc5e5b99-216a-48ca-aad8-9e28edeb4d9c,2025-02-16 15:19:53,Google Ads,4.6934988159046975,iOS,2.0,Apple,iPhone 12,mms
+d6764c13-3eb5-49d3-a2f2-7c5827a250cc,2025-02-07 13:48:40,Orgânico,0.0,Android,1.1,Xiaomi,Poco X3,sms
+267f8895-6597-41aa-a891-55bfa64afff8,2025-02-03 09:59:15,Google Ads,4.943568362904125,iOS,1.1,Apple,iPhone 13,sms
+2bf79605-8bd4-4e98-87ce-29b6550ac0b4,2025-01-01 16:29:47,Facebook Ads,4.869226948741421,iOS,1.2,Apple,iPhone 12,mms
+42e02fcd-d87b-487e-986b-0c87bab165d0,2025-02-03 10:03:30,Google Ads,4.925966421537141,Android,1.0,Motorola,Moto G Power,email
+e0d9723e-5ff3-4fec-940b-5080b1c808fe,2025-01-05 20:17:30,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,mms
+923a0c07-90ae-4653-8fa4-e6d68a720f30,2025-01-23 18:22:51,Google Ads,2.3392173703931203,Android,1.2,Motorola,Moto Edge,mms
+abe9b67c-714d-4fd9-8368-853317f67093,2025-02-13 06:49:20,Facebook Ads,1.3513155064542826,iOS,2.0,Apple,iPhone 12,email
+3a17eee1-85ba-42e5-91c9-6f421296c72a,2025-03-26 02:26:21,Facebook Ads,3.6603147077984026,iOS,1.0,Apple,iPhone SE,mms
+fb616390-331b-40a9-9161-332e2ace06f7,2025-03-26 22:03:10,Google Ads,2.137665740590004,Android,1.2,LG,K51,push
+7942cc82-43c3-4118-9a59-45b7c1cabb99,2025-03-22 20:27:11,Facebook Ads,4.744158439845647,Android,2.0,Xiaomi,Poco X3,email
+22bc9898-3d0a-4540-a9c0-840a2aab12ec,2025-02-14 22:10:45,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,mms
+8ebef99b-7d31-475c-a7a2-895c324b8d5a,2025-01-21 23:01:08,Google Ads,3.9584410874097506,iOS,2.0,Apple,iPhone 13,email
+62d4030c-7449-4c31-aa42-7e09463ca8a7,2025-01-21 05:37:07,Facebook Ads,1.4497003277227707,iOS,1.1,Apple,iPhone 12,push
+0adfe8c6-00a1-420c-a191-e6719d2d57e7,2025-02-25 01:24:40,Orgânico,0.0,Android,1.0,LG,K51,mms
+099b21d4-91af-4b90-adb7-ae6bdc4f43c8,2025-01-09 20:47:07,Google Ads,1.591706802988583,iOS,1.2,Apple,iPhone 12,sms
+04ea544b-985d-4746-9ead-336a069cc874,2025-01-08 09:41:37,Facebook Ads,1.410146109072459,Android,1.0,Samsung,Galaxy S21,sms
+4827454b-77d1-4034-ac5b-5c947491dbd9,2025-02-25 08:10:10,Facebook Ads,0.5943068227219802,Android,1.2,Motorola,Moto G Stylus,push
+f1ede284-8cb0-46d3-9323-f59996906de3,2025-02-20 22:46:45,Google Ads,1.4867258136342356,Android,1.1,Xiaomi,Poco X3,mms
+5c2407fe-6266-4382-8a0a-3a254663e7e8,2025-03-07 07:37:20,Google Ads,2.3832642260415997,iOS,1.2,Apple,iPhone SE,push
+157c70ab-f24d-42e1-9f33-3418706cbb35,2025-02-10 19:16:36,Google Ads,4.806759456314702,Android,1.2,Xiaomi,Mi 11,push
+5468d359-69d7-4f33-a74b-23c0f84f2b27,2025-03-20 06:03:32,Google Ads,2.379564683762189,Android,1.1,Xiaomi,Poco X3,sms
+94d63493-22b8-4b28-9546-3ff4d1c3068a,2025-03-21 10:05:20,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,email
+71cc8714-8537-4921-979d-45c30efd142e,2025-03-21 20:38:12,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,push
+f6e8f74a-7a27-43eb-bd5c-180c13c5a404,2025-01-29 04:54:17,Orgânico,0.0,Android,1.0,LG,Velvet,mms
+fd2224ac-4825-492e-b485-d3e0cb201680,2025-01-28 02:43:42,Google Ads,4.8365731618046475,Android,1.0,Xiaomi,Mi 11,email
+2cc67e7f-4773-47ac-b0b0-4a996a418d4b,2025-03-09 15:48:41,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,mms
+fb779438-5687-489d-85e5-3c733913932e,2025-01-14 18:54:15,Orgânico,0.0,Android,1.2,Samsung,Galaxy M32,push
+0c5396fc-21b6-4df0-985e-300ae74b3266,2025-03-22 21:44:14,Google Ads,3.7086321415952095,Android,1.0,LG,Wing,sms
+20b15ceb-d6f0-4f86-9489-098a8ab0c8d5,2025-02-19 03:51:37,Google Ads,3.5620459817018393,Android,2.0,Samsung,Galaxy S21,email
+c10ad797-3160-4110-b11d-503d82302902,2025-02-01 07:07:44,Facebook Ads,3.859777777785476,Android,1.2,LG,K51,mms
+93fea0d1-8712-4925-b955-425f2675d107,2025-01-06 01:16:25,Google Ads,4.136317567070279,Android,2.0,LG,Velvet,email
+6fa1579b-34fe-432d-b7c9-6ccf696c8401,2025-01-31 03:49:17,Google Ads,4.22058094400463,Android,1.0,Xiaomi,Mi 11,sms
+f04a785d-6ad9-4c8f-9a72-0f2ba57cc619,2025-03-17 00:25:30,Google Ads,4.505991872964633,Android,2.0,LG,Wing,push
+6d3915d2-c5d2-4726-bf64-3f512fa04565,2025-03-15 21:45:13,Facebook Ads,1.7803636953355002,iOS,2.0,Apple,iPhone 12,email
+a2d5e90d-a2c2-43cb-a8a2-65bcc83213eb,2025-01-15 16:54:41,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,mms
+b8f1fb5a-ae9d-490c-b05b-a3f5e34766cb,2025-03-23 07:42:04,Google Ads,1.9524563995984285,iOS,1.0,Apple,iPhone SE,sms
+24f33e76-63f4-465c-9a2e-ed18ceba4a7c,2025-01-01 09:21:57,Facebook Ads,1.6301838059059317,iOS,2.0,Apple,iPhone 12,sms
+6c8bd281-72cd-456e-b24c-4710c5f1ed8f,2025-01-01 09:23:41,Google Ads,2.3785324054977393,Android,2.0,Xiaomi,Mi 11,mms
+b7f1fb1f-a4fa-412a-ab9b-05a6c23cdc2f,2025-02-06 13:51:18,Orgânico,0.0,Android,1.0,LG,Velvet,mms
+5579dd5a-951a-4616-9aa7-84178abf9e14,2025-01-12 13:01:53,Facebook Ads,1.6772376363262818,iOS,1.2,Apple,iPhone SE,sms
+45318cb4-6c39-4e6b-b004-1875789dbcc0,2025-02-21 03:47:06,Google Ads,2.514681544240082,Android,1.2,Xiaomi,Mi 11,email
+d994362c-3459-42b1-b93d-cb9333232aae,2025-01-22 11:43:38,Facebook Ads,3.9815944627647366,Android,2.0,Motorola,Moto Edge,email
+d7d59345-1177-4ad8-a0a0-b598b5807b32,2025-02-14 05:34:52,Facebook Ads,0.3436631730769742,iOS,1.1,Apple,iPhone SE,mms
+5f4f2327-d520-41bd-bb1d-4dfeb5644683,2025-01-18 19:52:03,Google Ads,3.951039862726684,Android,2.0,Xiaomi,Mi 11,mms
+4e94199d-27ed-4080-b8a8-0d06458e1c73,2025-03-01 09:40:30,Facebook Ads,0.7026020478767254,Android,1.1,Xiaomi,Redmi Note 10,push
+9f1a9201-87c9-47f3-88fa-a7d6fafa2082,2025-03-14 01:40:16,Google Ads,1.774084355350967,iOS,1.2,Apple,iPhone 12,push
+0e887e9b-4da3-4382-8784-b7fe891d6a5b,2025-01-21 15:13:48,Orgânico,0.0,Android,1.1,Motorola,Moto Edge,push
+1ffd8739-e14d-4f51-837e-6303aa3287a5,2025-01-20 13:00:13,Google Ads,0.9157876461834564,Android,2.0,Motorola,Moto G Stylus,mms
+7dc75113-89b2-4276-a57d-d39fea1bcacd,2025-03-04 06:19:14,Google Ads,1.1297173055163758,Android,2.0,Xiaomi,Redmi Note 10,email
+1de5973d-30d8-43ad-9d6d-9e07f9719dca,2025-01-09 02:55:04,Facebook Ads,3.7555582402055396,Android,1.0,Xiaomi,Redmi Note 10,email
+b23d56d4-1b83-46cd-aa95-680a39089bd3,2025-03-12 01:32:16,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+69562dc1-3924-49c5-8806-39d435e29367,2025-03-16 13:05:41,Google Ads,0.855296787313112,Android,2.0,Xiaomi,Poco X3,push
+4280fea1-fc14-4436-abc2-a1904d1f32e2,2025-03-26 16:32:27,Google Ads,3.920920333063958,iOS,1.2,Apple,iPhone 12,push
+85e0e136-15ed-43c6-a74c-5fff2aadf928,2025-03-10 20:41:53,Facebook Ads,2.534203434573258,Android,1.0,Xiaomi,Poco X3,email
+cd402d52-e0d9-417c-9701-47eea476039d,2025-03-20 09:53:25,Orgânico,0.0,Android,1.1,Xiaomi,Poco X3,email
+1cb274a7-392e-4bdd-bb0a-449356edda03,2025-03-01 14:59:00,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,email
+b934ee9e-e518-4a73-9ffe-071426be275f,2025-03-27 08:59:49,Google Ads,1.9915079986739557,iOS,1.0,Apple,iPhone SE,email
+6a875b22-7f04-46a4-9c33-65662eb43adc,2025-01-12 01:19:20,Orgânico,0.0,Android,1.0,Motorola,Moto Edge,sms
+66772dbf-7b88-4815-8bc5-ca13c11c8316,2025-01-09 01:21:20,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,sms
+ce5f9b6c-704a-47b3-8e03-57cfac15f415,2025-03-12 20:36:51,Orgânico,0.0,Android,1.0,Samsung,Galaxy M32,push
+c608e536-5f34-43fa-82ae-7f4aa9c8c688,2025-01-05 07:12:45,Google Ads,2.489888772772292,iOS,1.0,Apple,iPhone 13,mms
+0b9d10a3-a88b-4e76-88e3-4f5aef6d6984,2025-02-08 20:17:20,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,push
+1ca66e13-0e5c-44c4-a358-fb62e85a23b8,2025-01-05 15:18:27,Facebook Ads,3.3728287658063385,iOS,1.0,Apple,iPhone 12,email
+abf5bb1f-a82c-40c9-b82d-334c33c34b15,2025-02-13 06:39:41,Facebook Ads,2.4725201811168147,Android,1.0,Motorola,Moto G Power,sms
+e1060d37-be03-49ae-97ae-1aa752fb66db,2025-02-08 11:43:57,Google Ads,1.6447354150016535,Android,2.0,Samsung,Galaxy M32,email
+958c9504-b672-4dbe-add0-b2a5a1c9aa3f,2025-03-11 13:20:56,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,push
+998dbd6d-9fac-4397-a1f9-10145ca85c8e,2025-02-08 08:39:26,Google Ads,4.70343241366838,iOS,1.1,Apple,iPhone SE,mms
+091775d7-c3ef-40f6-897d-271ca1282040,2025-02-18 08:08:05,Google Ads,2.3657949171828885,Android,1.1,Motorola,Moto G Stylus,push
+d1652197-01dd-49db-bee4-5b0714cc43ff,2025-02-03 03:55:27,Google Ads,4.800016915360164,Android,1.2,Motorola,Moto G Power,sms
+bf13c8bc-69d3-41a8-92d7-c1b79915906b,2025-03-15 06:25:50,Google Ads,4.221934763091944,Android,1.1,Samsung,Galaxy A52,push
+6b376f29-9e54-4803-bdd8-13922ea21b1e,2025-01-18 11:25:00,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+9d7dad01-3f3d-4b67-92f4-de5fc004fd5d,2025-02-25 18:39:47,Google Ads,0.5259880573131627,iOS,2.0,Apple,iPhone 12,mms
+5aa9118f-dd06-4bda-bbee-81a2b642c59d,2025-01-08 13:15:38,Google Ads,3.001045343141652,Android,1.2,Xiaomi,Mi 11,email
+1812a9ec-7298-4fad-80f8-189330c1e442,2025-02-27 00:04:28,Facebook Ads,1.672817356897658,iOS,1.2,Apple,iPhone 12,email
+2df25d08-29b5-4bca-a367-8d9f80048c36,2025-02-14 18:20:26,Orgânico,0.0,Android,1.1,Motorola,Moto G Stylus,sms
+67e2bf1b-a9a3-423d-9cb3-1c6d018ff63d,2025-01-03 08:29:24,Google Ads,1.3167897924185377,Android,2.0,Xiaomi,Redmi Note 10,push
+cd8210d6-dd02-4dc7-8c87-a5e267b41d55,2025-01-20 13:34:39,Facebook Ads,3.1314655751602847,iOS,2.0,Apple,iPhone 12,sms
+2fe5c670-0e4d-4023-8942-49e0cacc4d55,2025-03-12 15:14:42,Google Ads,3.027933231320222,iOS,1.0,Apple,iPhone 12,mms
+1eff5346-a450-407f-83a7-94ab363ce0c8,2025-03-22 13:40:56,Facebook Ads,2.849158608846877,Android,1.0,Motorola,Moto G Power,push
+ad9e1003-3229-46bd-a6c5-cb254d87a28d,2025-02-02 07:03:28,Google Ads,0.2513312209151528,iOS,1.1,Apple,iPhone 13,sms
+5490b0ef-9839-42b8-9293-7d6e2cf1ad2b,2025-02-02 12:12:39,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,mms
+c487baed-6f8f-43cd-a065-b8bed84feabb,2025-03-20 22:07:14,Orgânico,0.0,Android,1.1,Samsung,Galaxy A52,email
+0e252e0d-3637-4c1d-b354-e8dc695e4bdd,2025-03-24 23:07:34,Facebook Ads,2.01405380905961,Android,2.0,Samsung,Galaxy S21,sms
+cbd217f5-f717-44a8-b102-7c73eebee826,2025-01-03 03:11:08,Orgânico,0.0,Android,1.2,Samsung,Galaxy S21,sms
+aa21140b-1965-4534-8f4e-77284a0441ad,2025-03-18 17:27:44,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,sms
+639fe22d-83fc-4867-8438-4c1f70366765,2025-01-25 04:04:19,Facebook Ads,4.073037157174068,iOS,1.0,Apple,iPhone 12,mms
+733a1e30-d442-4a77-851d-6b387486ab5d,2025-01-23 06:37:52,Facebook Ads,2.137740310831316,Android,2.0,LG,Wing,email
+cc6d77fe-c18d-484c-9f18-33437a329730,2025-03-10 07:49:35,Facebook Ads,3.4677750954581668,Android,1.2,Xiaomi,Mi 11,sms
+97454434-b860-4455-99a3-13581922f5e7,2025-01-20 17:56:31,Google Ads,3.461310353680306,iOS,1.1,Apple,iPhone 13,email
+9f301dc2-0322-4b6c-ae99-36e66c054ed0,2025-03-12 21:17:07,Google Ads,4.503793247887571,Android,2.0,LG,Wing,sms
+7d39e307-d143-4944-90cc-1c79c3dabf66,2025-03-29 14:12:40,Google Ads,3.736877150706806,Android,1.0,Xiaomi,Poco X3,email
+730529cc-340b-44f8-ba4a-f11f7aad424b,2025-01-08 10:26:52,Facebook Ads,4.757403988844139,Android,2.0,Xiaomi,Poco X3,push
+ba348eb9-ef63-4777-85a0-aea47088a6fe,2025-03-10 18:36:14,Facebook Ads,2.6618917594309126,Android,2.0,LG,K51,email
+c60546ad-3f7f-4a53-89f7-a4215a466146,2025-01-25 13:50:26,Facebook Ads,3.091369882275967,Android,1.2,Samsung,Galaxy A52,sms
+cdd1770a-d393-4ace-b839-36603da2f247,2025-01-10 03:08:52,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,sms
+e9ab5c8b-fab7-41ba-95f1-93998d3df4ca,2025-01-26 04:17:14,Facebook Ads,2.769792739544922,iOS,1.1,Apple,iPhone 12,mms
+5b15f445-be18-404f-9d01-c960f34ea0d1,2025-03-09 19:16:16,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,mms
+0c331f01-7ee2-4165-af66-9e1945305987,2025-01-15 05:23:44,Orgânico,0.0,Android,1.2,LG,Wing,email
+e0a1719a-6b2d-4483-a93d-3f36233a4815,2025-03-12 09:00:32,Orgânico,0.0,Android,1.0,LG,Velvet,sms
+e93d92f6-3e7c-4a1b-974a-981668964113,2025-03-02 18:35:45,Orgânico,0.0,Android,1.2,LG,K51,push
+91bd0854-685a-41a1-836e-690dd97094c5,2025-03-13 05:34:12,Google Ads,3.8730746237655502,Android,1.0,Motorola,Moto G Stylus,email
+719f6dbe-3d72-4506-ab0c-8a20431261dc,2025-02-14 13:28:48,Google Ads,4.936433021500913,iOS,1.0,Apple,iPhone SE,email
+01d21807-1c46-449d-9b71-23869de64faa,2025-02-21 14:10:59,Orgânico,0.0,Android,1.0,Motorola,Moto G Power,push
+6e7db9d4-0cbc-42e1-8eea-9b4fc81d6a09,2025-01-19 07:26:30,Orgânico,0.0,Android,1.2,Motorola,Moto G Power,push
+e9f6cb48-df0a-43e2-8625-9432dd2dfa3b,2025-03-22 22:46:40,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,sms
+834b4db6-f31e-4617-b984-291375f5c346,2025-02-18 22:58:21,Google Ads,4.8307568689520535,Android,1.0,LG,Velvet,sms
+dcdb69ae-edc1-4f91-94b8-4631d93de7cb,2025-01-09 12:01:02,Orgânico,0.0,Android,1.1,LG,K51,sms
+a9ed6595-5287-47b2-bd2c-079dc82074e0,2025-03-29 15:21:40,Facebook Ads,4.761356383581991,iOS,1.2,Apple,iPhone SE,mms
+7d991de2-d644-4628-92c0-126de1c2158e,2025-01-08 13:21:10,Orgânico,0.0,Android,1.2,Xiaomi,Mi 11,email
+c9dcbfd9-c5be-4aac-bfeb-d0c9cab0e74b,2025-03-30 22:11:32,Facebook Ads,0.20334308707451,iOS,1.0,Apple,iPhone SE,push
+c2eeb1a9-52b3-464a-9283-007e18de2c5e,2025-02-12 19:40:07,Google Ads,3.142766014669745,iOS,1.1,Apple,iPhone 12,email
+c848cc51-899b-4d25-b910-0b85049f893c,2025-03-10 14:30:44,Google Ads,4.108099005958909,Android,1.1,Motorola,Moto G Power,mms
+4488c1a5-5bb1-4e80-aefd-fe77eb5e0d57,2025-01-10 07:10:59,Orgânico,0.0,Android,1.1,Motorola,Moto G Power,email
+6de7e0e3-30ba-4972-a6d3-d58d5eefd369,2025-01-19 13:53:11,Facebook Ads,1.244486657086488,Android,1.1,Motorola,Moto G Stylus,sms
+d3a7d313-9d11-483e-a91c-490f106a37cb,2025-01-30 14:27:49,Facebook Ads,4.162523837093293,Android,1.2,Motorola,Moto G Stylus,sms
+35377428-8c0e-4944-872f-2b30efcaca91,2025-02-16 12:40:37,Facebook Ads,1.0256930758178937,iOS,2.0,Apple,iPhone SE,sms
+9ad85d4c-8518-483d-9f06-5b6449fb4816,2025-03-25 10:17:46,Google Ads,1.7081969029105784,iOS,1.1,Apple,iPhone 13,push
+e91081a6-5c0f-4c9d-afba-02d46116bbc7,2025-01-02 13:41:06,Google Ads,4.980672345993082,iOS,1.1,Apple,iPhone SE,push
+605064b5-b070-4d3f-b2ee-7b15321fffa3,2025-02-17 03:52:24,Facebook Ads,4.698790614545439,Android,1.2,Samsung,Galaxy S21,sms
+921355e9-ad0d-4f9f-ae48-1c52556dcb09,2025-03-19 00:00:17,Google Ads,3.3454383983962943,Android,1.2,Samsung,Galaxy S21,mms
+7e008845-f6de-4aaf-988f-aaf5551d1ad1,2025-01-24 12:54:01,Facebook Ads,1.1547932937074448,iOS,1.2,Apple,iPhone 12,sms
+98e4cb3f-c680-4fad-9589-61e6f90b133c,2025-03-17 16:44:40,Google Ads,4.844047125395879,iOS,1.0,Apple,iPhone 12,email
+91d39fba-0967-4844-8fee-f7ec8ed3e23f,2025-01-20 11:58:23,Google Ads,4.191108298137487,iOS,1.2,Apple,iPhone SE,email
+f00e4dd0-9318-494c-ba57-28a8cbb11d8b,2025-02-01 10:36:28,Facebook Ads,3.374930275681258,Android,1.2,Xiaomi,Mi 11,sms
+8bd2e8eb-ad48-4913-bc89-99cbc61acf97,2025-01-11 16:04:26,Google Ads,4.724144415544251,iOS,1.0,Apple,iPhone 12,email
+ea41813f-db55-4170-af47-0601fa2380f3,2025-01-02 10:56:20,Facebook Ads,2.6041938545992616,iOS,1.0,Apple,iPhone 12,mms
+f8571d7f-d0ea-41f2-b4c7-a116ba115224,2025-03-17 05:52:50,Orgânico,0.0,Android,2.0,LG,Velvet,email
+efa9d586-0f9c-4fbd-8989-b7814db8c665,2025-02-14 22:16:05,Facebook Ads,0.9599458861322172,iOS,1.2,Apple,iPhone 12,push
+2b2c070b-a2a2-4c68-9fc6-262c33dce632,2025-03-20 01:10:20,Facebook Ads,3.2254633703513904,iOS,1.1,Apple,iPhone 12,email
+2a2fbf68-f611-4322-9c82-31db6388d5dc,2025-03-12 15:23:00,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+30f55fae-9919-4380-a207-221ac83551ec,2025-01-02 12:17:32,Facebook Ads,1.0242822856639946,iOS,1.2,Apple,iPhone 12,email
+2fee2f6e-201b-4f86-b5a3-01434803337f,2025-03-22 10:13:19,Orgânico,0.0,Android,1.2,LG,Velvet,mms
+36b18bae-4bc6-4889-979b-01e61f44c863,2025-03-13 00:20:58,Google Ads,1.0097087687470627,Android,1.0,Samsung,Galaxy A52,sms
+4f366124-5ad4-4ce2-8b9b-736fb99e018c,2025-03-26 21:14:33,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,email
+f0eab941-3e62-46ba-ad67-ccc5a4538e88,2025-01-07 17:49:16,Orgânico,0.0,Android,1.2,Xiaomi,Redmi Note 10,sms
+d5279a1f-550d-4067-9569-44c1317ed9a2,2025-01-31 07:09:23,Orgânico,0.0,Android,2.0,Samsung,Galaxy M32,push
+3c443538-02f9-4977-9237-33e5586e8197,2025-01-27 13:20:34,Orgânico,0.0,Android,1.1,Xiaomi,Mi 11,push
+679e0588-66cc-4d77-bba7-024cd2ffcfde,2025-03-01 04:24:06,Orgânico,0.0,Android,1.2,Xiaomi,Poco X3,push
+dbb891e3-69f7-4b0b-95c9-c91d6c9ca2b1,2025-02-08 16:50:07,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,push
+697c0b1b-4cf4-48a2-b612-ba7f0ca08548,2025-03-10 13:49:25,Google Ads,4.019533320927758,iOS,1.1,Apple,iPhone 12,email
+b9c755a9-d36d-4d5c-b2ca-51620714de8c,2025-03-11 04:02:40,Facebook Ads,1.114454303131374,Android,1.1,Xiaomi,Redmi Note 10,mms
+90e8367e-4d86-422b-a0d2-36f1c50d2eda,2025-03-10 12:49:51,Google Ads,2.036690992431008,Android,1.0,Samsung,Galaxy M32,email
+ddc289c1-42d3-4288-a0f8-a5bd01cdccf4,2025-03-27 02:52:52,Facebook Ads,0.45916209554623333,Android,1.2,Xiaomi,Poco X3,push
+9264de72-b8df-48eb-8e43-51516964db25,2025-01-06 20:03:35,Google Ads,3.3429483134028466,iOS,2.0,Apple,iPhone 13,sms
+d1bc1490-57e5-4f6b-b8be-b7ad95a94924,2025-02-23 16:12:53,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,mms
+2c134962-296a-4f02-8e8c-29796f1948bc,2025-03-05 20:57:36,Facebook Ads,1.0274900301735181,iOS,1.1,Apple,iPhone 12,push
+e97c818c-ece2-4133-a79d-531dbb45c348,2025-02-17 16:42:47,Google Ads,1.4658118790730732,iOS,1.1,Apple,iPhone SE,email
+22d89b0e-43e8-46b5-b9f7-01e34fb6a03b,2025-03-14 01:36:27,Facebook Ads,4.885535854866878,iOS,2.0,Apple,iPhone 13,email
+11d4f40f-6272-4ddf-bd8e-8ed32ad3d0af,2025-03-08 16:16:01,Orgânico,0.0,Android,2.0,LG,Velvet,push
+77450f13-0444-43b6-89d1-1e5e32b4ee30,2025-01-05 05:09:54,Google Ads,4.545343106146026,Android,1.0,LG,K51,sms
+6cb6a668-dbb0-43f7-b750-a615bacd62b5,2025-03-04 19:09:02,Orgânico,0.0,Android,2.0,Samsung,Galaxy A52,email
+cd547e79-893f-48bd-a8b9-aa98ad4c146f,2025-01-02 03:11:52,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,email
+ffcf2f35-4344-49b9-b491-68470ac17f4f,2025-02-19 16:13:11,Google Ads,4.243284638908013,Android,1.1,LG,K51,push
+4934f4aa-958f-4f2c-ba52-5195b0ce558d,2025-01-12 07:48:50,Google Ads,4.989052427854833,iOS,1.0,Apple,iPhone 12,push
+872ee3e3-9abc-40ca-a491-d19401560172,2025-02-24 08:58:39,Orgânico,0.0,Android,2.0,Motorola,Moto G Power,mms
+7043f7fd-626f-4aee-a334-22cd370c6775,2025-03-23 14:06:04,Google Ads,2.961488176658239,iOS,2.0,Apple,iPhone SE,email
+fb323aa9-c77a-4169-a54b-d26938929892,2025-02-01 16:09:39,Facebook Ads,3.850826618239018,iOS,1.0,Apple,iPhone 13,email
+3fcdbcd9-0ef5-4aca-b7ed-0ea2efcf4461,2025-01-20 11:45:52,Facebook Ads,0.8273834378276168,Android,1.1,Motorola,Moto Edge,sms
+463654a9-1565-43b5-8f04-9ba448e762f1,2025-01-07 11:31:37,Facebook Ads,4.291454837895209,Android,1.1,Xiaomi,Redmi Note 10,email
+dfc85cba-692a-458a-abd1-2e485be3a3ac,2025-02-11 04:16:50,Facebook Ads,2.1866628543988,iOS,2.0,Apple,iPhone SE,email
+483875e1-5c03-404f-a0d3-d9f29290a359,2025-01-15 17:54:52,Google Ads,4.492496429785732,iOS,1.0,Apple,iPhone 12,email
+a0484057-40de-404f-9df1-5e60c7055e6c,2025-02-06 07:39:27,Facebook Ads,0.5822440186812435,iOS,1.1,Apple,iPhone SE,sms
+74afeca8-ed73-4cb2-bbf8-dd6b2ba7c266,2025-02-15 13:36:29,Facebook Ads,0.30820746548187244,Android,2.0,LG,Velvet,sms
+83cc7139-1261-4332-9cdc-52d3ff42a557,2025-01-01 20:54:36,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,push
+29ed3ab0-fa47-4fdb-9dc1-1394df463475,2025-01-09 05:56:33,Google Ads,4.27205699967447,iOS,1.2,Apple,iPhone SE,email
+a8b1b721-99fc-4912-9e1d-c4ca99ece176,2025-01-16 19:00:41,Facebook Ads,1.6174831999771024,Android,1.2,LG,Velvet,push
+2e639115-6360-45e4-b276-c7969165b8d7,2025-02-04 11:51:07,Facebook Ads,2.1413152856612117,iOS,1.2,Apple,iPhone 12,email
+763c5449-af91-4fa5-939a-3b41c158b49b,2025-02-08 04:48:10,Orgânico,0.0,Android,1.0,Xiaomi,Mi 11,mms
+917e57c0-1e04-485e-83e7-f7eb6112eec0,2025-01-16 08:26:06,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,push
+9ca3981e-b9de-42c1-85f8-61000b1a2d44,2025-01-07 22:30:06,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,mms
+45e5c7c8-2d49-48d8-a92c-016311e97b40,2025-01-27 02:13:49,Google Ads,1.5566086251693059,Android,1.1,LG,Velvet,sms
+d8973978-f95e-4f55-bc13-0496116ad532,2025-01-05 21:59:22,Orgânico,0.0,Android,1.0,LG,K51,mms
+1ff84875-6efc-49fb-a063-e1f6cfe2fa42,2025-01-21 04:22:14,Facebook Ads,2.655517479796207,Android,2.0,Xiaomi,Redmi Note 10,email
+3a0c9f70-fb71-4799-a41d-6743f2a431ad,2025-02-07 09:07:33,Orgânico,0.0,Android,1.2,Samsung,Galaxy A52,push
+8cdf1f4d-5c6f-4942-a07d-f785cfcbca12,2025-03-13 02:25:35,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,sms
+6258d417-1bcb-4da9-8f08-e95855554358,2025-01-24 17:21:25,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,sms
+fa0094eb-364f-4f1f-8ca0-999e64239f41,2025-03-14 11:21:23,Google Ads,1.8323628998173036,Android,1.0,Motorola,Moto G Power,push
+27ce3e4c-5592-43f2-ad4c-f141f48fbde7,2025-02-05 09:58:26,Google Ads,0.9646595662218306,Android,2.0,LG,K51,email
+7cabc6d2-a0e6-4405-a53f-af3dcf5ede41,2025-01-16 07:26:35,Google Ads,3.1660067960082685,Android,2.0,Samsung,Galaxy S21,mms
+ef291689-cb36-4532-aa21-43ed811ca33d,2025-03-30 00:26:48,Facebook Ads,1.7218202992190252,Android,1.2,Motorola,Moto G Stylus,push
+20e1bc4d-b32c-49ea-8b41-eb093a901af0,2025-02-28 01:59:28,Facebook Ads,0.22146436963899035,Android,1.0,LG,Velvet,push
+70d7e132-c1ff-440e-b0f2-e40ccee4a34a,2025-02-21 23:35:03,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,email
+90946516-5579-42c3-ab26-83bb9ef7e468,2025-02-17 22:22:55,Orgânico,0.0,Android,1.2,Xiaomi,Poco X3,sms
+dcceab44-d7e6-4467-a88c-0065667dbbf6,2025-02-10 12:46:42,Facebook Ads,3.103250832317893,iOS,1.0,Apple,iPhone SE,email
+02b78f2f-b580-48af-ae92-b663f1f72fca,2025-02-04 14:19:56,Google Ads,4.934919541067234,Android,2.0,LG,K51,email
+1f63d762-eb34-41a7-9a28-d4ee4a895c8b,2025-02-22 03:45:09,Google Ads,2.4161103278134606,iOS,1.0,Apple,iPhone 12,mms
+67e521b5-8dae-4856-8eb5-2c724972a222,2025-02-05 11:29:50,Orgânico,0.0,Android,2.0,Motorola,Moto G Stylus,email
+78c6196d-5a63-4ff2-81b0-6e235ee6f0fc,2025-01-03 14:44:23,Google Ads,2.901297722812565,Android,1.1,Samsung,Galaxy A52,email
+36303171-9802-4172-9e73-0f40917d716f,2025-02-12 00:54:23,Google Ads,2.0542142600762543,iOS,1.1,Apple,iPhone 12,sms
+af664d01-501a-404a-9964-1ec160110c40,2025-02-25 11:03:50,Google Ads,2.0464709282592226,Android,2.0,Xiaomi,Redmi Note 10,email
+502e181a-ee50-45a1-8dfc-451c9a650dda,2025-01-04 05:21:30,Facebook Ads,0.27989758125484737,Android,1.1,Xiaomi,Redmi Note 10,push
+71c581e5-3e74-4c9c-ad5c-abe0b2804c0d,2025-01-19 13:05:20,Google Ads,1.9798328503337923,Android,2.0,Motorola,Moto G Stylus,email
+e5c05c45-4e09-42b8-b8cd-9c07ec3796d6,2025-02-04 10:04:54,Facebook Ads,4.4398915839776025,Android,2.0,Xiaomi,Poco X3,mms
+fbe39bc9-1144-4720-92b8-acc957637fb1,2025-03-29 11:34:03,Orgânico,0.0,Android,1.1,Motorola,Moto G Power,sms
+4e92ade6-9aa9-4c3d-b506-088f33770291,2025-03-08 16:39:10,Facebook Ads,1.73867384696899,iOS,1.1,Apple,iPhone SE,email
+a5a767ba-363f-4f80-93e6-f027d4d0e8cd,2025-03-25 07:59:51,Facebook Ads,1.6079170352864312,Android,1.2,Xiaomi,Redmi Note 10,push
+5c4442eb-b5f2-4ec4-be56-22b1a115b884,2025-03-30 05:19:58,Facebook Ads,1.6628893160152218,Android,2.0,Samsung,Galaxy M32,push
+439130d4-2782-4715-a42a-ae9e38c62146,2025-02-02 12:58:43,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,mms
+d28e6c00-b216-4199-91a6-73214b943ef8,2025-03-08 09:28:48,Google Ads,2.242868348413559,iOS,1.0,Apple,iPhone SE,sms
+95b273d1-f3d0-453f-be6e-da9d17e5a8ef,2025-01-07 16:57:43,Facebook Ads,2.7681964724728245,Android,1.2,Samsung,Galaxy M32,mms
+f85b5046-cab7-4413-a2c0-735895163712,2025-02-22 14:20:56,Facebook Ads,0.9897745309512322,Android,1.0,Samsung,Galaxy A52,sms
+44173638-eef8-4062-8239-695c5d539422,2025-03-01 18:07:59,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,mms
+00e6d374-5351-446e-bccc-bfd73fac9eb7,2025-02-24 14:28:25,Orgânico,0.0,Android,1.0,Motorola,Moto Edge,email
+95c48b0b-a9db-4046-8bab-b6a9968f3bb7,2025-01-05 01:53:39,Facebook Ads,4.433546990873549,iOS,1.2,Apple,iPhone SE,sms
+f83e505f-16e1-49b1-98e5-44fbe3dc2740,2025-01-12 07:14:39,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,mms
+dc34db18-7a90-42b5-9a58-d0d86a1f3a99,2025-02-21 02:19:18,Facebook Ads,3.1027463554670307,iOS,1.0,Apple,iPhone SE,email
+8a54d115-b91d-4568-b0a3-62903ce2b385,2025-02-10 07:11:03,Facebook Ads,1.5850242421741043,iOS,2.0,Apple,iPhone 13,sms
+f66adb34-b5a8-4ee5-87a4-fb7d75631b7a,2025-02-14 04:43:04,Google Ads,3.577873119871354,iOS,1.0,Apple,iPhone 12,sms
+b2c7e84f-f136-4621-895b-a9fd42fabdb8,2025-01-30 05:33:27,Google Ads,2.708151258266531,iOS,1.2,Apple,iPhone SE,email
+94d8bc81-8ed1-479c-a330-52f335b99752,2025-02-15 22:55:13,Orgânico,0.0,Android,1.0,Xiaomi,Poco X3,mms
+e7b9665c-f8de-4751-9b89-48880c8becb4,2025-02-20 02:17:16,Facebook Ads,1.7868717160961702,iOS,1.2,Apple,iPhone SE,push
+b2ed6d75-6687-428c-9d71-e33b689ad3fe,2025-02-09 16:44:04,Google Ads,1.103373412122214,iOS,1.1,Apple,iPhone 13,mms
+76433a97-678d-46a7-8461-eafe12bcc353,2025-01-23 03:12:46,Facebook Ads,1.1431424883137415,iOS,1.1,Apple,iPhone SE,sms
+16e2828b-af81-4f84-88db-077378824cae,2025-02-08 10:45:45,Google Ads,2.9824953526167373,iOS,2.0,Apple,iPhone SE,push
+54441b18-6ba1-4e1a-ad54-5c999ad20c55,2025-02-06 06:18:09,Google Ads,1.3488116462972877,iOS,1.2,Apple,iPhone SE,push
+63d63215-22df-452e-9cda-4c4a8f53ed1f,2025-03-23 19:23:20,Facebook Ads,0.3161444418002819,Android,1.0,Motorola,Moto G Power,email
+eb6b21c8-865e-48cc-a76a-648850ab8a6f,2025-02-04 19:25:00,Orgânico,0.0,Android,1.0,Motorola,Moto Edge,push
+2f44d462-04f7-4ef0-92f3-dcd92d782ca9,2025-03-01 00:35:18,Google Ads,3.34473501783811,iOS,1.2,Apple,iPhone SE,push
+f260dbec-ad52-4e45-b8ac-513a3c5042d2,2025-01-12 08:26:29,Orgânico,0.0,Android,1.1,LG,Wing,mms
+54be0fda-880d-43f1-b50f-674ccfbd2f19,2025-02-05 00:33:41,Google Ads,2.372355019690078,Android,1.2,LG,Velvet,sms
+109bf7e4-508a-42d3-80a9-2517ae1ffd8c,2025-02-07 14:19:13,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,mms
+56939e7b-5ecd-43c2-9b39-425c662715c5,2025-01-18 22:18:50,Google Ads,2.9710559605901192,iOS,1.2,Apple,iPhone 13,sms
+392c4309-fb83-4aa3-8a1f-3ad4dca350d0,2025-01-26 18:43:12,Facebook Ads,2.2330581251677675,iOS,2.0,Apple,iPhone 12,mms
+d11fa2ec-f99b-4eeb-883e-de756b900b8e,2025-01-17 11:04:05,Google Ads,1.6641981232009448,Android,1.2,Motorola,Moto G Stylus,push
+25f92d6d-70f7-4e9c-b8fb-72e070850c59,2025-03-05 00:22:15,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,push
+3021d318-3b4b-42f1-beed-e5c39de38722,2025-03-17 23:01:16,Facebook Ads,4.880527764991405,Android,1.0,LG,K51,sms
+f44ba4cf-760e-440e-a434-1ab908b0b869,2025-01-05 14:33:22,Facebook Ads,4.70529099758268,Android,2.0,Samsung,Galaxy A52,sms
+3c775e7a-9634-4393-9278-90098a8b8932,2025-02-19 12:14:57,Facebook Ads,1.0639636787082924,iOS,1.2,Apple,iPhone 13,sms
+d2fc15bc-af45-4b17-a4bc-57e9aac5f786,2025-03-01 12:20:31,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+fed94969-6163-4827-9c4f-595bea3cc677,2025-01-10 16:44:50,Facebook Ads,0.8487075321565702,Android,2.0,Xiaomi,Poco X3,push
+19f91131-18ff-44bf-9ec2-4fe632d80498,2025-03-15 07:15:42,Facebook Ads,1.8453606602456998,Android,1.1,Xiaomi,Poco X3,email
+cc2c9e13-8771-435e-8309-4ff127b62397,2025-03-02 17:14:58,Google Ads,4.75734023632186,iOS,1.1,Apple,iPhone 12,sms
+49b9071d-c6f3-442f-9216-9e1498832f1b,2025-03-13 02:30:36,Google Ads,0.8508336421392141,iOS,2.0,Apple,iPhone 13,email
+59f291db-9ce0-4bd7-947d-b24bad30156b,2025-02-01 16:38:00,Google Ads,3.7275388233645534,iOS,1.2,Apple,iPhone 12,email
+639381cd-4e9a-476c-8d77-74f7c57f09ec,2025-01-25 21:35:02,Facebook Ads,1.6318833360378782,Android,1.0,Motorola,Moto G Stylus,email
+8d1956f7-f278-449d-b88d-d2c46d50696c,2025-01-26 23:50:33,Google Ads,0.8777217409946017,iOS,2.0,Apple,iPhone SE,sms
+bbaa29a3-3021-436e-a1e8-0d17678a84e2,2025-02-08 08:44:23,Google Ads,1.3021365290698321,Android,1.0,LG,K51,mms
+0ea3db1e-7f39-4f5d-b19f-399860a5e52a,2025-03-23 07:08:06,Facebook Ads,4.581419502351545,Android,1.2,Motorola,Moto G Stylus,push
+8d30c91d-8ffe-493a-81ff-2d8fe578b32a,2025-01-14 12:41:14,Google Ads,0.35093586394650567,Android,1.0,Samsung,Galaxy S21,push
+3366ce26-4de5-408a-8749-e3b935f44d9f,2025-01-17 21:39:08,Facebook Ads,1.6915646398744946,Android,1.0,Xiaomi,Mi 11,email
+c6e992f0-682b-4cb5-af4d-7abb6740e862,2025-02-14 02:58:24,Orgânico,0.0,Android,1.1,Samsung,Galaxy A52,mms
+f26f348c-72b2-4ecb-89df-9abd5d88d86d,2025-03-18 18:56:26,Facebook Ads,2.3434626367025,Android,1.2,Xiaomi,Poco X3,push
+c0fca99f-479c-48eb-8479-f14ec7e16b63,2025-03-27 02:40:29,Google Ads,2.1770902852361718,iOS,2.0,Apple,iPhone 12,sms
+3ba6d9bb-e67d-4fa8-a033-8ee6d9101299,2025-01-22 04:58:47,Google Ads,3.048592401040448,Android,1.2,Xiaomi,Mi 11,sms
+4a43b908-bec2-4417-a2f7-78f8efedb32c,2025-02-16 08:54:42,Facebook Ads,3.793839449728316,Android,2.0,Xiaomi,Mi 11,push
+1efde57a-cd74-466e-a608-0222f8a2351d,2025-01-04 20:23:47,Facebook Ads,0.6222302864684489,Android,1.0,LG,Wing,mms
+ed198675-05d8-49ca-9124-eb8fc440152d,2025-02-10 07:24:53,Google Ads,3.5658359449101296,iOS,2.0,Apple,iPhone SE,push
+5cd31ff7-792a-4cd4-9893-686ce44271f5,2025-02-27 14:53:32,Facebook Ads,2.586108394879153,Android,2.0,Motorola,Moto G Stylus,push
+0a761424-25fa-49f0-9d36-43db9b9f80b6,2025-02-06 08:34:44,Google Ads,2.6447626751832356,iOS,1.1,Apple,iPhone 13,mms
+f151416a-3adb-4915-b107-56bd3e0c86d0,2025-03-08 14:56:42,Google Ads,0.7426252952799793,iOS,1.2,Apple,iPhone 12,push
+50f0b0f2-2ac1-4577-88d0-1b993e70f705,2025-02-08 06:04:46,Facebook Ads,3.3816878018413834,iOS,1.1,Apple,iPhone 12,push
+3d959c1d-7eff-4acd-931d-841bc96030ed,2025-01-10 15:05:21,Google Ads,3.9501783282584504,iOS,1.0,Apple,iPhone 12,mms
+35687c77-bbba-4434-b9be-8e8db4c3d3b7,2025-03-11 22:12:12,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,mms
+64a702f3-d8ce-4c8f-8c24-829f647d26db,2025-01-06 18:40:42,Orgânico,0.0,Android,1.1,Motorola,Moto G Stylus,email
+b397b5aa-52af-4cc2-a781-e578e63f8dae,2025-02-16 06:53:23,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,push
+8ec60ee2-0789-4414-8411-87da2f07be22,2025-02-11 12:27:55,Facebook Ads,1.1771825849070152,Android,1.0,Xiaomi,Poco X3,push
+c90b5c99-1232-48ec-bc0a-5ed23da15e4c,2025-03-07 17:50:43,Google Ads,3.212089590743338,Android,1.2,LG,Velvet,mms
+815e8388-6228-4a76-9ed8-10a50c0e085a,2025-01-02 02:49:46,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,push
+306ee589-61b7-4ae0-9e5a-048c86524b22,2025-01-11 11:37:16,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,sms
+bcb05ec9-a1a8-4ac2-8ff9-8f6a9036ddd3,2025-01-31 20:52:44,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,push
+e4df3014-ca9a-4906-84d6-4915d0fd2e61,2025-01-20 18:32:57,Facebook Ads,4.446930863107353,iOS,1.2,Apple,iPhone 12,push
+1d1f7bd2-9808-47e0-abc8-3793296327a3,2025-03-05 19:15:25,Google Ads,3.0105466698042394,Android,2.0,Samsung,Galaxy M32,email
+694568d1-1a60-4488-acd7-985df1d6433d,2025-03-04 15:47:33,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,email
+5be2aeec-5d56-4feb-8b35-e1e294427243,2025-02-08 08:10:47,Facebook Ads,3.952061653142545,iOS,1.0,Apple,iPhone SE,push
+cbf3acc9-e400-4aa5-8639-62d45b762f2e,2025-01-15 09:28:10,Facebook Ads,4.855445043805662,iOS,1.0,Apple,iPhone 13,push
+16d367b5-49e5-4c99-959c-b763afdffe4c,2025-02-21 05:07:42,Facebook Ads,0.584416097807823,iOS,1.1,Apple,iPhone 13,sms
+cf323c97-7adc-4640-85ee-f0e9471b095f,2025-01-21 07:24:45,Google Ads,4.160747830752059,Android,1.2,Xiaomi,Redmi Note 10,sms
+f48d8f3b-f868-4b00-9fc9-39f53b293200,2025-02-01 21:04:25,Facebook Ads,1.2963057932158097,Android,1.1,Samsung,Galaxy A52,email
+a0073914-50f8-4c73-a3f3-abae9c0f7180,2025-01-14 16:43:25,Google Ads,1.670819497319843,iOS,1.1,Apple,iPhone 13,sms
+2c8cc14c-47e9-4af9-804d-c0f96339e43d,2025-01-26 19:58:24,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+cbdf1867-2162-455f-b9f0-9c6c84457df0,2025-02-04 17:03:19,Google Ads,4.999193707176073,iOS,1.2,Apple,iPhone 12,push
+653c62b0-3a54-456e-a35d-88c62db22854,2025-01-24 16:38:22,Google Ads,3.374205136548746,iOS,1.2,Apple,iPhone 12,mms
+23677294-2443-47c4-9215-d1610f7582fa,2025-03-10 00:01:49,Facebook Ads,0.7041837861587349,Android,1.1,Motorola,Moto Edge,mms
+8fc6b494-eeb1-45cf-85be-087b82eec8bd,2025-01-03 07:41:55,Facebook Ads,0.5272765312766479,iOS,1.0,Apple,iPhone SE,mms
+d8988049-c65e-4834-b287-bb3d936586eb,2025-02-01 02:32:54,Google Ads,2.441625919636381,iOS,1.2,Apple,iPhone 13,sms
+9544dbec-f077-4fd6-9b5e-f9e107b8351f,2025-01-24 18:03:15,Google Ads,3.901999095076137,iOS,1.0,Apple,iPhone SE,mms
+8ecaebcf-95b7-453a-bb79-e5e9619fa183,2025-01-11 17:13:53,Facebook Ads,3.7607886288693027,Android,1.0,Motorola,Moto G Stylus,push
+ea014380-709a-48e7-b7f1-4d4bf2d34f82,2025-03-16 12:01:15,Facebook Ads,0.7608919201112989,iOS,2.0,Apple,iPhone SE,push
+1a288f01-863e-437e-a76e-f8ad75230e11,2025-03-14 11:53:39,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,sms
+d73b7fec-a2d7-49de-8a75-889b4fa185e5,2025-03-20 14:28:36,Facebook Ads,2.274120281172852,Android,1.1,Samsung,Galaxy A52,mms
+cf62c05d-e886-490c-bd07-deac63723f92,2025-02-12 06:47:06,Facebook Ads,3.2421781659639457,iOS,2.0,Apple,iPhone SE,email
+cdc1057a-389a-4e22-96db-c0ccbf7154a3,2025-02-15 08:31:02,Facebook Ads,2.502486497095623,iOS,1.2,Apple,iPhone SE,sms
+65937c2d-0455-4279-a296-9e62eeead358,2025-03-20 09:57:39,Google Ads,2.271984166763926,iOS,1.1,Apple,iPhone 12,sms
+c17effed-a933-48ee-9821-306152b0b529,2025-03-01 09:41:39,Orgânico,0.0,Android,1.0,Samsung,Galaxy S21,email
+97e9069b-17db-4271-bd72-be6ba3a10498,2025-03-30 15:15:16,Google Ads,3.2673269896455532,iOS,2.0,Apple,iPhone SE,push
+ad163e0d-3023-4f3a-9706-fbd4131145bf,2025-02-17 23:41:06,Google Ads,3.5162620359798216,iOS,1.0,Apple,iPhone 13,sms
+899b127e-6940-44cf-b519-5b13e8352081,2025-01-10 09:38:01,Facebook Ads,2.576240596209756,iOS,1.0,Apple,iPhone 12,mms
+a6cdddd9-b934-4b41-86f5-3db402c1e633,2025-01-26 08:22:42,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,push
+4f31808b-d31c-4a5e-ab2c-f175824ceda0,2025-01-25 18:53:58,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+14848dc8-6e92-4fe3-9b61-f6e9d86b7c0f,2025-03-27 08:19:02,Orgânico,0.0,Android,1.0,Samsung,Galaxy S21,sms
+9bcafcb6-1a7b-4f44-b813-7efa7c4b0e88,2025-02-10 23:03:03,Google Ads,3.700596111485886,iOS,1.2,Apple,iPhone 13,email
+e5fe6181-1170-4a17-8f3d-c4970c2875e4,2025-01-28 12:47:40,Orgânico,0.0,Android,2.0,Motorola,Moto G Power,email
+92c0e909-30b6-4981-8536-adea591e2914,2025-01-07 20:29:15,Google Ads,4.235039408446417,Android,2.0,Samsung,Galaxy M32,push
+acb4ef65-c7b6-4153-9466-091df60f7ab5,2025-02-22 17:00:45,Facebook Ads,3.1801127225369705,Android,1.2,Motorola,Moto G Stylus,email
+6900cb04-76d1-428d-80b8-68cf058f1e22,2025-02-09 17:40:48,Orgânico,0.0,Android,1.0,Xiaomi,Mi 11,mms
+0d5c5c51-fe18-493c-9efb-7d74c7320301,2025-02-28 19:33:01,Google Ads,3.2995915097140016,iOS,1.2,Apple,iPhone 13,mms
+0c7fec68-24b4-4777-9620-d378f115698f,2025-03-21 09:35:50,Facebook Ads,4.3110992332322,iOS,1.0,Apple,iPhone SE,sms
+4f3d3b43-ac03-4521-ac00-e59ab487426b,2025-01-05 22:08:26,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,mms
+a1f19a10-d300-4fcf-aaf9-698e14e1b3f3,2025-02-12 07:42:20,Orgânico,0.0,Android,2.0,Motorola,Moto G Power,sms
+7f0849f1-189c-4a32-9b4e-a9b16377b4e4,2025-03-13 17:41:12,Google Ads,4.808549914286812,iOS,1.0,Apple,iPhone SE,sms
+653564a7-c515-4ba8-b34e-4664e2be9a04,2025-02-27 14:55:05,Google Ads,0.8825061641383988,iOS,2.0,Apple,iPhone 13,email
+9a169f3c-029b-438d-b154-c41796cf6c1b,2025-01-05 00:36:41,Google Ads,2.7032355540139212,Android,2.0,Xiaomi,Mi 11,push
+e8d9e729-480d-49ef-8d78-46e1b8a0b475,2025-02-09 23:24:32,Facebook Ads,2.3264485163607964,iOS,1.2,Apple,iPhone 12,sms
+0f5a57b7-1961-4eb7-af6d-8180d4b7dded,2025-01-06 13:40:56,Facebook Ads,2.2895051855941557,iOS,1.2,Apple,iPhone 13,mms
+ccd0e16b-ecd2-4203-aafb-0241255f868e,2025-01-04 15:20:26,Orgânico,0.0,Android,2.0,Xiaomi,Redmi Note 10,sms
+a139069e-feac-40f3-8c3e-265bcd9cf164,2025-03-23 17:45:50,Facebook Ads,3.2610981326367687,Android,2.0,LG,Velvet,push
+15d9af71-65b1-4bb0-8cc8-0f95c3ad7fb7,2025-02-23 13:15:10,Facebook Ads,3.2646764317600194,iOS,1.0,Apple,iPhone 12,email
+7e77fe17-1149-4f0a-b680-039e5e463eae,2025-02-19 11:02:16,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,email
+2fdc7166-8b83-487b-b24f-4d55e7829e04,2025-02-09 11:04:41,Facebook Ads,2.6558505081812083,iOS,2.0,Apple,iPhone 13,email
+13075256-12a3-4f36-a096-be18bd8a1509,2025-02-28 06:51:28,Google Ads,4.053317054538056,Android,2.0,LG,K51,email
+f7de910d-3788-4f2c-a616-2c02bb6a4714,2025-02-04 22:38:38,Facebook Ads,0.2195744613072661,Android,1.2,Motorola,Moto G Power,mms
+5f0411b0-fd2d-4ab2-aa15-4696ea8e3e72,2025-03-21 06:29:04,Google Ads,2.687490565949021,iOS,1.0,Apple,iPhone 13,push
+0a375da9-4359-43be-9046-993504cdd3f9,2025-02-08 11:08:56,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,mms
+beddac8a-d21a-4e01-8d90-db3671e89046,2025-01-09 16:21:36,Google Ads,2.447400546353408,Android,1.0,LG,Wing,sms
+25993933-95d4-4d38-b4bb-1da4376967bb,2025-02-09 06:18:35,Orgânico,0.0,Android,2.0,Samsung,Galaxy M32,email
+647bfe7e-fd90-4352-a6b8-ecc302878ce5,2025-03-04 20:36:28,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,push
+e6db0837-bdd5-44a7-9ce7-22bf25511ca3,2025-01-13 15:41:22,Google Ads,2.6234356252689257,Android,1.1,Samsung,Galaxy A52,mms
+03f41dc8-cd6f-4a53-80ee-5aee88398ba0,2025-01-23 04:34:24,Facebook Ads,1.8436029198899018,iOS,1.2,Apple,iPhone 12,mms
+49bc21a4-ce90-4730-9350-474190bee88d,2025-02-22 17:47:46,Orgânico,0.0,Android,1.0,LG,Velvet,push
+18583997-d0c3-4ed5-ba00-0fc57f98d77c,2025-01-24 03:03:48,Orgânico,0.0,Android,1.2,Xiaomi,Poco X3,mms
+75a1265d-b5e3-4880-ac0a-8ed009e45224,2025-02-12 04:59:33,Google Ads,1.535029537370502,iOS,2.0,Apple,iPhone 13,email
+5ea1f89d-b990-4f97-b96a-1e4045891797,2025-03-05 23:38:22,Google Ads,3.1816633701690167,iOS,2.0,Apple,iPhone SE,mms
+9629bb7c-c361-4edf-8252-4dea5fd245fc,2025-02-21 12:46:22,Facebook Ads,2.8665216287896524,iOS,1.1,Apple,iPhone 13,mms
+3bb6bd2c-9e4f-4dab-919b-13b82757431d,2025-03-04 11:18:34,Google Ads,2.073511714304616,iOS,1.2,Apple,iPhone 13,email
+6278395c-3c50-444a-bcba-2552e7514593,2025-03-21 07:58:05,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,email
+c7933e0a-bb26-488e-a04f-aeccb2cd4f17,2025-03-02 08:31:13,Google Ads,2.151802788107951,iOS,1.1,Apple,iPhone 13,mms
+99df9f6b-67fd-41c1-a00d-fa4525466966,2025-01-02 10:08:28,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,email
+8012de28-4c03-4b7e-9eba-07e15c075458,2025-02-28 00:37:35,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,push
+68b309c0-58b2-4ad6-ac94-65b5fb30e6e3,2025-03-18 04:04:33,Facebook Ads,4.267417673694578,Android,1.0,Xiaomi,Poco X3,email
+2c16b2ba-8325-4ebd-9e5f-f9e8e49f9fa8,2025-01-25 09:55:36,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,email
+bfc60785-9c67-42c1-afaf-03ad9c595006,2025-03-15 21:47:59,Facebook Ads,0.47141699429869155,iOS,2.0,Apple,iPhone 12,mms
+8686337d-faa6-4ec6-83fa-d579f14dda02,2025-03-07 06:47:00,Facebook Ads,2.5091716373314723,iOS,2.0,Apple,iPhone 13,sms
+fedea278-2e3e-48c7-a5e1-5af58251bf79,2025-01-17 05:22:12,Facebook Ads,3.123211362373342,iOS,1.2,Apple,iPhone 13,mms
+1324b1fd-4f57-48fe-8924-b99cc5a19bd6,2025-03-21 11:47:44,Facebook Ads,2.478661182960974,Android,1.1,Samsung,Galaxy A52,email
+5fc11994-7cda-46ca-b166-f386a28297ae,2025-03-18 05:56:12,Facebook Ads,4.992117569473375,Android,2.0,Samsung,Galaxy A52,push
+9aecaf9c-0ee6-4c53-9140-909eab752e59,2025-02-27 19:50:58,Facebook Ads,1.873869114730952,Android,2.0,Motorola,Moto Edge,sms
+31dbaac8-9176-4905-a0c6-86c379c304da,2025-02-17 15:29:40,Facebook Ads,4.992917057563207,Android,1.0,Samsung,Galaxy M32,mms
+f50827de-e77d-4050-8df5-a62846c08045,2025-02-16 09:07:58,Facebook Ads,0.8008756079739205,iOS,1.2,Apple,iPhone SE,sms
+4de412ef-0a50-4d8e-978c-be2095312d46,2025-01-12 14:54:25,Orgânico,0.0,Android,1.2,Samsung,Galaxy A52,sms
+b7319d1b-2d9c-489c-8f73-cdff420447ac,2025-02-05 20:48:29,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,sms
+96ef869f-70f7-44ce-9882-efa56c34cf0e,2025-02-11 04:13:00,Google Ads,2.686047559397488,Android,1.1,Motorola,Moto G Power,push
+9ed2f639-8f9c-445b-bf94-a01e8c57ca10,2025-03-28 23:39:16,Google Ads,4.2117488034087645,iOS,1.2,Apple,iPhone 12,sms
+a6ef31d5-8def-4b15-996b-cdb67fa4fe9a,2025-01-09 23:36:47,Google Ads,3.4805138357276624,iOS,1.1,Apple,iPhone 12,email
+51fcc12d-f5e2-4e87-aa83-f80ae98a5ad0,2025-03-06 08:23:50,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,email
+bc4d7902-956d-4746-93f9-a6cbbdec4755,2025-01-04 11:06:34,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,mms
+df9c4dda-ca2e-46a0-b898-739972372236,2025-01-04 12:28:31,Facebook Ads,2.023930393207282,Android,2.0,Motorola,Moto G Power,sms
+2e3a2302-7c05-45a0-a802-a95498d7cdf5,2025-01-07 18:16:47,Google Ads,1.74717351584826,iOS,1.1,Apple,iPhone 12,email
+f76a1c50-7da8-4bad-ac69-9300d367fcf5,2025-02-02 07:12:54,Google Ads,2.667860327359708,iOS,1.2,Apple,iPhone 13,mms
+8eba44c0-bb13-49e0-9b18-7c905ae9c8b1,2025-01-06 02:40:05,Facebook Ads,2.786944067390572,Android,1.0,Samsung,Galaxy A52,sms
+b23ffd9f-538d-4782-9118-dc122f19c292,2025-01-16 17:13:39,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,email
+95f90883-f680-4300-ab12-77b88883a80a,2025-03-03 07:27:56,Facebook Ads,1.1304970069112943,iOS,2.0,Apple,iPhone 12,mms
+ccb8d9c3-cbba-454a-8198-7ad1b78622ef,2025-01-10 23:50:28,Facebook Ads,4.2045374566378575,Android,2.0,LG,Wing,email
+a336c235-9d1a-4e3d-8d75-583b3753288c,2025-03-10 00:25:03,Orgânico,0.0,Android,1.0,Xiaomi,Poco X3,sms
+1a525a90-e1bb-4b01-9665-6cb02c3f267c,2025-01-21 04:23:13,Orgânico,0.0,Android,2.0,Samsung,Galaxy S21,email
+e1741d9d-da17-4fd1-b428-95ecde4392ae,2025-01-13 09:53:09,Facebook Ads,0.5800152114975728,iOS,1.0,Apple,iPhone SE,email
+debe7234-2895-4e57-808a-1708eea0b6d2,2025-03-30 12:50:38,Google Ads,1.146394745636785,Android,1.0,Motorola,Moto G Stylus,email
+4a6df942-46b3-44b7-9ba5-b16acc932cfb,2025-01-28 10:43:43,Google Ads,3.023105787021762,iOS,1.2,Apple,iPhone SE,sms
+a33c7cc9-113c-4232-acc1-747a313cae91,2025-02-22 08:46:20,Facebook Ads,4.0215812602144085,Android,2.0,Samsung,Galaxy A52,email
+4ff7d6e3-b4cc-4c6c-a84f-9de58e2382b8,2025-03-23 22:24:08,Facebook Ads,0.15761139127076784,Android,1.2,Samsung,Galaxy S21,sms
+0536ab96-3755-4b77-9f7e-652b98c27427,2025-01-27 15:17:25,Google Ads,1.6579063088090724,iOS,2.0,Apple,iPhone 12,sms
+989d3c71-9d4c-4553-b49c-c6c5947f16a5,2025-01-27 18:06:14,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,sms
+5d628645-f8e5-4f2c-8cbc-c0509839b11f,2025-03-23 00:59:11,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,sms
+514b05d6-5b13-41d4-8551-1a5b1cc9a93a,2025-02-11 15:36:17,Facebook Ads,2.556131210155337,iOS,1.1,Apple,iPhone 13,mms
+44d02f08-3325-4c19-983c-54d4831d542a,2025-03-14 04:02:03,Google Ads,2.028045934007155,iOS,1.1,Apple,iPhone 12,sms
+c7ee8348-7fd9-4183-9ac6-2c9612e7b792,2025-03-27 21:14:16,Orgânico,0.0,Android,1.0,LG,Wing,push
+5200bca0-80f7-4bb7-af54-26139f985eff,2025-01-08 01:32:09,Facebook Ads,2.8491732029740624,Android,1.2,Xiaomi,Mi 11,mms
+23a971c8-01b5-45a3-8e3f-3522479fed26,2025-02-11 23:26:32,Facebook Ads,0.3413498749046661,Android,1.2,Motorola,Moto G Stylus,push
+f74af2b4-90c1-49ad-a970-fc44c0c7f645,2025-01-23 18:06:50,Google Ads,2.138487956434654,Android,1.2,Xiaomi,Redmi Note 10,email
+c1f23f38-1cfc-430d-9c57-5907c7f11cd5,2025-02-25 18:23:39,Facebook Ads,3.2249869521005396,iOS,1.1,Apple,iPhone SE,mms
+7f239ec4-b5b2-4d11-82a0-08f2a2ba5668,2025-02-03 02:09:22,Facebook Ads,1.0155655907787398,Android,1.2,LG,Wing,email
+a812b7c0-ff72-4eec-9f11-2ef3cf1b8972,2025-03-29 23:34:17,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,push
+a7695bfc-e857-4279-a53d-538e7a416ea4,2025-02-11 16:25:08,Google Ads,4.170203932508293,Android,2.0,Xiaomi,Mi 11,push
+ab17a440-2600-47e9-a3c6-59e394d3a270,2025-02-10 18:47:35,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,mms
+55ed3eff-c72f-4353-8c35-a679aaaa2f17,2025-02-03 22:05:19,Facebook Ads,4.523594107421232,Android,1.1,Motorola,Moto Edge,sms
+2f1f749e-206e-4edd-b962-f1980cbe2a32,2025-03-25 13:15:52,Facebook Ads,0.24619347218400597,iOS,1.1,Apple,iPhone SE,push
+02e8d6ac-85db-47ce-9b65-db7d1a14d1d7,2025-03-27 17:30:30,Facebook Ads,1.773155474829285,iOS,1.0,Apple,iPhone 12,push
+cde3214a-0a42-4139-a422-04d5abde0125,2025-01-09 03:52:17,Google Ads,1.1215398341184473,Android,1.2,LG,K51,push
+f0e32078-1eb0-49ff-81b9-2bee5b6de089,2025-03-03 08:26:28,Facebook Ads,1.4714134789270923,Android,1.1,Xiaomi,Redmi Note 10,mms
+875a23eb-02fa-4ce3-a226-1ed25cbba7dd,2025-03-07 11:56:31,Google Ads,0.3076077629127377,iOS,1.0,Apple,iPhone 12,sms
+1111dab0-a866-477a-aa25-4d880b2cd041,2025-01-27 04:18:25,Facebook Ads,4.369374518390718,iOS,1.0,Apple,iPhone 13,mms
+c4db5c95-b51e-484f-9123-7a29ed9e421f,2025-02-05 20:45:50,Orgânico,0.0,Android,2.0,LG,Velvet,email
+35ae02ad-31c1-4373-9880-1ee60af2e9fc,2025-01-23 16:57:36,Google Ads,4.423524055501645,iOS,1.0,Apple,iPhone SE,push
+599dc798-9731-438c-8135-b6c515f71a31,2025-01-11 18:22:38,Facebook Ads,4.322510668555514,iOS,2.0,Apple,iPhone SE,mms
+1195112e-aa25-42e6-aaaa-c41b1deb6ffe,2025-01-06 17:21:30,Facebook Ads,0.9553401912023226,iOS,1.0,Apple,iPhone SE,sms
+8b20b89b-163c-4be2-98d8-77ab008f0e8f,2025-02-19 09:00:14,Google Ads,0.6481738238114942,iOS,1.0,Apple,iPhone 13,sms
+edb89076-7a35-4687-a9c6-8b74ab21db7c,2025-01-21 15:30:07,Google Ads,1.9678868608222133,Android,1.0,Motorola,Moto G Stylus,email
+70d3b7d0-1db3-44b4-92fa-e38a5ee1f86c,2025-02-10 04:59:08,Orgânico,0.0,Android,1.0,Samsung,Galaxy M32,email
+59da187a-ca61-4d29-938f-e0fa3b6dc5c4,2025-03-20 12:44:04,Google Ads,3.912234861397391,Android,1.2,Motorola,Moto Edge,push
+99928f5a-f491-4cc8-9db4-d442ace872fc,2025-03-13 03:16:52,Facebook Ads,4.909838494824795,Android,1.0,Motorola,Moto Edge,email
+2bf030db-8a71-4009-ae2d-8774c86d3275,2025-03-01 05:00:22,Facebook Ads,0.6473247342647444,iOS,1.0,Apple,iPhone 13,mms
+21a95731-065f-4077-9f6d-935c9d7767dd,2025-02-13 18:04:28,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,email
+838dffae-f571-45a0-b833-267873e4e9dc,2025-03-21 07:33:35,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,email
+b7f3a917-9636-4a07-8b22-56589ea5e091,2025-03-28 15:38:54,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,push
+af53e21b-f545-4a34-ba86-2770e6ec7876,2025-02-08 20:44:10,Google Ads,2.753332477635802,Android,1.0,Xiaomi,Poco X3,email
+d0ab24d1-a0be-43db-aa21-a725112bbeae,2025-01-27 07:00:09,Orgânico,0.0,Android,2.0,Xiaomi,Mi 11,mms
+cbe0718c-721d-44e7-b151-933e1d404566,2025-01-16 11:19:21,Google Ads,3.910134681364246,iOS,2.0,Apple,iPhone 13,mms
+3093de60-9db2-43d7-9c5c-1273c452eaca,2025-01-30 15:52:38,Google Ads,1.8354710181311111,Android,1.2,LG,Wing,email
+7fd15f7c-c590-46c2-adf0-ae358528c963,2025-03-01 01:13:46,Google Ads,3.3362136026960765,iOS,2.0,Apple,iPhone SE,mms
+0001e65d-6221-489c-bbce-7180eb0ba458,2025-03-17 01:41:24,Google Ads,4.627237884292298,iOS,1.0,Apple,iPhone SE,email
+d2338595-06c0-46f7-bf9c-11528a35dfdd,2025-03-17 22:17:14,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,push
+e02238fc-e4dc-48e0-8360-e734de794456,2025-01-08 19:37:02,Facebook Ads,3.010430601509772,Android,1.2,LG,Wing,push
+090203a5-1ab5-45d7-98b3-226871c7e394,2025-02-25 14:45:59,Google Ads,3.944812906629191,Android,2.0,Samsung,Galaxy M32,sms
+f545eba3-0066-487d-b84a-162e7a496d4e,2025-01-16 13:31:57,Orgânico,0.0,Android,2.0,Xiaomi,Redmi Note 10,sms
+e58bc36f-c9b1-4e41-a3f2-73db8a46e3a8,2025-02-08 00:04:55,Facebook Ads,3.0449326905911454,Android,1.0,Samsung,Galaxy A52,email
+ed99d504-ce6a-4045-bc94-ea25df804d78,2025-01-13 09:22:27,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+a83f9b57-9c45-4360-be29-6ef6c834f825,2025-02-05 00:15:17,Google Ads,1.1946506361254126,iOS,1.1,Apple,iPhone SE,sms
+928977db-db1e-4430-bfbe-faadd75bb014,2025-01-20 07:26:06,Facebook Ads,1.3605920102322173,Android,1.2,Motorola,Moto G Power,sms
+363cfc02-e11f-4006-8aac-6f7bae166ede,2025-03-26 08:33:09,Google Ads,4.5207550194555175,iOS,1.1,Apple,iPhone 12,sms
+9fc93901-7905-457a-9a89-80eb7608ca8d,2025-03-18 11:24:39,Orgânico,0.0,Android,1.0,Motorola,Moto Edge,push
+6e0f11e9-6c9b-48b3-9265-98f50aa5b9cd,2025-03-13 10:05:26,Orgânico,0.0,Android,2.0,LG,Wing,push
+7c08380d-ec62-4a7b-994e-8948e5a3aa0d,2025-03-18 13:45:29,Google Ads,2.0187862616898715,Android,1.2,Motorola,Moto Edge,push
+00696cf2-ee56-4975-8b21-f9aeb1e28f38,2025-01-15 09:11:10,Facebook Ads,0.4284413762044338,Android,1.1,LG,Wing,sms
+270a67f1-0452-426b-8ca9-3c2164bc8fa4,2025-02-21 13:25:53,Google Ads,4.3334582800900785,Android,1.0,Samsung,Galaxy A52,push
+15656a15-9090-4e9b-922d-68a7a295d06f,2025-03-11 21:50:58,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,push
+e7f791a2-bd52-4e52-a176-be2682bfc7a1,2025-01-27 14:44:02,Google Ads,3.1851028225760953,iOS,1.0,Apple,iPhone 12,sms
+6bfbd046-b19e-48cb-85b7-442fd033b5f9,2025-03-18 18:00:36,Google Ads,4.294358611904142,Android,2.0,LG,K51,push
+a420d08f-7d1c-4c84-ad82-b8121f8f6907,2025-01-03 03:40:19,Google Ads,1.4829438850076448,iOS,1.0,Apple,iPhone SE,email
+8348d867-e632-4d99-938f-4bdb4af552e6,2025-01-30 01:48:47,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,push
+7e2ceeea-72e8-44e7-936e-3d8f9ce880b8,2025-01-25 22:09:05,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,push
+cc4007c4-a515-41cb-90e8-97bc843d671e,2025-01-26 23:32:24,Google Ads,4.932165882917779,Android,1.2,Motorola,Moto Edge,push
+0f4bc3ad-8c01-4a2f-b524-cd0b447c9ee9,2025-03-21 03:27:42,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,push
+50243055-c40f-42f0-a58e-552f1129466f,2025-03-23 05:13:55,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,sms
+0a7150b8-9b47-4d9c-a3ee-7acade671616,2025-02-24 20:53:42,Facebook Ads,3.4033272321146915,Android,1.0,Motorola,Moto G Stylus,mms
+cb385f3b-13c3-40de-a262-6e1208174722,2025-02-07 12:26:49,Google Ads,2.395886691741056,Android,2.0,Motorola,Moto G Stylus,push
+4da409b0-3c43-48f5-9431-a8be78f29844,2025-01-05 05:38:03,Google Ads,1.0144603983635263,iOS,1.2,Apple,iPhone 12,mms
+7caad7dc-0edf-4004-aedd-ff8dc83984e9,2025-01-01 08:22:58,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,email
+344eea3b-ace5-4e34-b877-846a7cebbf21,2025-01-19 17:54:23,Google Ads,4.6890508523864005,Android,2.0,LG,K51,mms
+4a8acbc5-8164-48eb-9b06-5eccdb83eb9f,2025-03-14 10:14:18,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+5f5fe510-8fce-48fa-857e-c61019a90210,2025-02-04 07:24:36,Google Ads,4.727992329870288,Android,2.0,LG,K51,sms
+c4eb3c57-d145-4826-900a-9d9ab309f913,2025-02-27 06:45:33,Facebook Ads,0.5951331871438363,iOS,2.0,Apple,iPhone 13,mms
+5b4e39f6-8447-4d2b-98da-18bff17ceaac,2025-03-05 01:06:39,Facebook Ads,4.290081476818478,Android,1.2,Samsung,Galaxy M32,mms
+5c4065b0-3aa2-43ef-941a-9facfe3ada55,2025-01-13 21:20:26,Google Ads,2.2681113768693155,Android,1.0,Samsung,Galaxy S21,email
+c2fd3a3f-35bd-474e-ba42-888af921a6fe,2025-01-06 00:02:36,Google Ads,1.1422943649829602,Android,1.1,Motorola,Moto G Power,email
+76ffc348-b966-45a2-bc97-1eac3b3853c1,2025-03-19 13:40:09,Orgânico,0.0,Android,1.0,LG,Wing,sms
+46cd9e4f-f52a-4046-9c3b-1c65816cdba9,2025-03-01 06:30:46,Google Ads,0.8325087686333457,Android,1.0,Samsung,Galaxy A52,sms
+b1c36994-4782-4b05-a141-bc78dd77dd85,2025-03-03 03:40:23,Orgânico,0.0,Android,1.0,LG,K51,push
+2afe66f1-76a6-4e96-802b-e0f6d437f3ba,2025-03-26 15:32:19,Google Ads,2.3485254813986294,iOS,1.2,Apple,iPhone 12,mms
+d6da474e-c7e4-4296-a1fa-7474cf2506dc,2025-01-19 12:49:10,Orgânico,0.0,Android,1.0,LG,Velvet,mms
+44a61fe7-c878-4a75-a34d-2a2f560247e5,2025-01-03 18:49:11,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+b3aa1b1f-f57b-42b1-a3e7-8221fea2cf1d,2025-03-17 06:50:05,Google Ads,4.980105781819198,Android,1.1,LG,Velvet,mms
+0ad4052d-aa71-4627-b1be-634a86eefa51,2025-02-16 18:51:49,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,mms
+08005ff2-f72b-4d3d-a6c9-2ac60bf4292a,2025-01-10 05:24:50,Orgânico,0.0,Android,1.2,Xiaomi,Redmi Note 10,mms
+f94ef74f-66f1-4ea8-9ce2-4dbddbd8fcd0,2025-03-26 12:40:05,Facebook Ads,2.192907850346818,iOS,1.2,Apple,iPhone 13,sms
+e6b22da3-9f52-4bcc-b710-659ade05b3b8,2025-03-01 16:20:47,Google Ads,2.8995930932750897,Android,1.2,Samsung,Galaxy A52,sms
+3bc50234-aeac-488d-904e-0de76756fd93,2025-02-13 10:43:22,Facebook Ads,4.754640869527259,iOS,2.0,Apple,iPhone 13,sms
+15bce94c-7245-4cd2-bf96-c0a33820217f,2025-02-08 03:09:09,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,mms
+26959e9b-abae-4cee-9b05-39708356ec9c,2025-01-31 17:15:12,Facebook Ads,2.0053743276761877,iOS,1.2,Apple,iPhone SE,sms
+79bd8023-f026-47e4-bc1a-9c4a24cf3a18,2025-02-04 23:50:15,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,push
+92770dbe-baf3-4b6d-a324-36aa5af4a413,2025-03-18 07:33:20,Orgânico,0.0,Android,2.0,Xiaomi,Poco X3,email
+c8b18c01-3d91-49ab-918f-eb7f599a75f4,2025-02-15 04:37:55,Facebook Ads,4.943315464030493,Android,2.0,Samsung,Galaxy A52,push
+a5139b86-21e2-4815-8aac-435bef77f375,2025-02-05 10:00:22,Google Ads,1.0847355012333386,iOS,1.2,Apple,iPhone 13,push
+713d5155-f25e-426f-aa41-9bf0e921c749,2025-01-11 18:51:46,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,push
+515cfde5-91af-482d-87a6-176d0ad23fef,2025-03-07 04:40:51,Facebook Ads,2.5973912424397274,Android,1.0,Motorola,Moto G Power,mms
+f68fcb66-483e-450d-9439-4ee56a1a742f,2025-03-19 19:24:27,Facebook Ads,3.0766209894846632,iOS,2.0,Apple,iPhone SE,push
+b9999fe9-409f-45d0-9e53-ac750a078719,2025-02-24 08:59:11,Facebook Ads,1.53913980957576,iOS,1.1,Apple,iPhone SE,mms
+a3aa8c2f-915e-409a-b048-674cac835362,2025-02-11 10:49:14,Google Ads,3.704327771461793,Android,1.1,LG,Velvet,sms
+5a237cdd-41cb-471e-97ce-13cbf8c4181f,2025-03-07 17:31:46,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,push
+e1a8bfe1-6838-4f2f-bcd6-8afe53b887a3,2025-03-18 23:41:12,Google Ads,4.550465607439417,iOS,1.1,Apple,iPhone 13,push
+d098839a-e19e-4784-9bb8-c962fde5a96b,2025-03-11 17:11:55,Google Ads,4.656955628715965,Android,1.2,Motorola,Moto G Stylus,email
+f16f6ece-3860-4a9a-849d-2cf4e61d3d1f,2025-02-22 09:19:58,Facebook Ads,4.799774906672985,Android,1.1,Motorola,Moto G Power,push
+54b9fb3e-0a86-4443-bab8-56913060ce80,2025-03-07 19:30:26,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,sms
+ea6ad755-2c3b-4604-ae85-2e9bfd0e95e9,2025-03-16 20:39:19,Facebook Ads,1.682111878877659,iOS,1.1,Apple,iPhone 13,mms
+bb300718-873f-411d-992f-fb1db12e62a4,2025-01-28 09:48:27,Facebook Ads,3.375641575005335,iOS,2.0,Apple,iPhone 13,mms
+51d1ae94-9172-4760-bb8c-3db8b02e2e9f,2025-03-30 13:44:08,Google Ads,4.0533067850631745,iOS,1.2,Apple,iPhone SE,push
+ee17c97f-ffe4-477c-84af-edae646a85a9,2025-01-03 13:58:07,Orgânico,0.0,Android,2.0,Samsung,Galaxy A52,sms
+1f642c93-d3b7-4495-80a3-735cd0e02966,2025-03-19 16:17:28,Google Ads,3.186596344558426,Android,2.0,Motorola,Moto G Power,mms
+0d48861f-6ca9-4ef4-88a1-fc135687d2ce,2025-02-02 02:30:57,Orgânico,0.0,Android,1.1,LG,Wing,push
+ebc44054-e401-443e-a2d0-2f6bb40a08d0,2025-02-15 08:27:40,Orgânico,0.0,Android,1.0,Motorola,Moto G Stylus,push
+4a6fcf0e-cb7e-4dec-9855-c80837a1d11c,2025-01-06 20:32:11,Google Ads,1.0004466971838408,Android,1.2,Samsung,Galaxy S21,email
+86b4815e-4e51-4179-8823-e0bda588bb89,2025-01-07 20:24:29,Google Ads,4.601980526992272,Android,1.0,Motorola,Moto G Stylus,email
+75c8f817-7b23-49a7-a9c6-80e1a31f0967,2025-03-22 21:09:52,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,sms
+1269871d-0fe5-455f-b86a-01ce399466a1,2025-03-21 05:53:45,Orgânico,0.0,Android,2.0,LG,Wing,sms
+a7c8fa41-caa1-45d9-b995-86e98c3d8d0e,2025-01-04 17:50:30,Facebook Ads,1.9588296843681892,Android,1.0,Motorola,Moto Edge,email
+46681f10-ed5a-4442-ba19-11c119428508,2025-01-27 20:30:23,Facebook Ads,2.9660658052073194,Android,1.1,Samsung,Galaxy S21,sms
+276aee95-97fe-446f-b9e0-d86ef08dcad8,2025-02-13 07:11:57,Google Ads,1.8267666502029096,Android,1.0,Samsung,Galaxy A52,mms
+4cc2484f-9b2a-482b-9d22-932758e8bbc5,2025-02-28 00:04:22,Facebook Ads,1.923918262874271,iOS,1.2,Apple,iPhone 13,sms
+389d1feb-198f-426d-8a68-f4e848a6528f,2025-01-09 17:16:53,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,sms
+83c79e99-d93c-4cea-a6a5-64bf84c208b6,2025-03-22 05:58:27,Google Ads,1.8718907810251466,iOS,1.2,Apple,iPhone SE,mms
+6af97b1c-c26f-463c-8253-20ed0078276d,2025-03-06 23:59:55,Facebook Ads,3.1899295372265764,Android,1.1,Xiaomi,Redmi Note 10,sms
+426b0f17-202a-438e-91f6-4e2ce6494085,2025-01-23 11:04:53,Google Ads,3.790068186894736,iOS,1.0,Apple,iPhone 12,email
+1cbd5985-587c-4b8b-b5ac-d16aee2f9876,2025-02-13 16:26:56,Facebook Ads,2.884573082619483,Android,1.0,LG,Wing,mms
+d35f9feb-5496-418b-808e-086c984cb047,2025-01-13 17:12:26,Facebook Ads,3.2660570178744894,iOS,1.1,Apple,iPhone 13,sms
+16fba500-4bea-4382-b05e-ae3b8da237f1,2025-03-04 19:34:21,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,push
+f670a534-1263-40ef-ae8c-ca58a4646fc0,2025-03-26 02:16:33,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,mms
+f527ebb4-b9fd-42a7-b7c3-37bf8b62699d,2025-01-17 02:17:05,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,mms
+ada6d479-cc04-4590-a4d4-6d4f3921feb1,2025-03-22 13:06:40,Google Ads,4.91060760609068,Android,1.0,Motorola,Moto G Stylus,mms
+08f613a6-0b8f-46b4-b3ca-6e693781c492,2025-03-28 05:32:18,Orgânico,0.0,Android,2.0,Samsung,Galaxy S21,sms
+131177a9-7a27-488b-9b62-3e5c1369d419,2025-02-18 09:17:08,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,push
+47ae7182-4ee4-4e3e-851d-15a4294ca536,2025-01-18 05:16:32,Facebook Ads,4.419925069848686,iOS,1.1,Apple,iPhone SE,push
+fe05a9c0-6442-440a-8b43-60ed5e48446b,2025-02-15 05:01:49,Facebook Ads,3.709429489882337,Android,1.0,Motorola,Moto G Power,mms
+55e74dc9-861c-4142-8b1b-e58abbfb0d58,2025-01-04 16:16:25,Facebook Ads,1.12150959784553,Android,1.1,Motorola,Moto G Stylus,email
+dbf3acb8-815f-47b1-bf2c-68fb13ca747e,2025-03-07 23:09:42,Orgânico,0.0,Android,2.0,Samsung,Galaxy A52,email
+67c51fb5-26f3-4287-b89f-666ea1632ac0,2025-02-13 03:01:34,Google Ads,3.4541365392718952,iOS,2.0,Apple,iPhone 13,mms
+7f607b01-824d-4493-ac53-a52c39ec596d,2025-02-01 22:35:43,Facebook Ads,1.9084973720365213,iOS,1.1,Apple,iPhone 13,sms
+3d96ca9f-1755-4266-b8a2-1e4aace9bf58,2025-01-31 06:56:31,Orgânico,0.0,Android,1.2,Samsung,Galaxy S21,mms
+a54f466e-0f73-40b9-b4ea-086c51812c04,2025-02-04 08:37:17,Facebook Ads,2.0514178198407653,Android,1.2,Motorola,Moto G Stylus,push
+52f18fdd-bfeb-45d4-9df6-b02b16aa47b9,2025-02-24 11:10:11,Google Ads,3.8925543200103077,iOS,1.0,Apple,iPhone 12,email
+3fddfd10-4cb3-487b-bd25-0865c7ad88ba,2025-01-10 01:32:35,Facebook Ads,3.801761704408268,iOS,1.0,Apple,iPhone 12,email
+9b6e256d-80bc-486a-ae3f-2ecf0a685051,2025-01-06 09:20:16,Facebook Ads,0.5356701135224761,iOS,1.1,Apple,iPhone 12,email
+0da8bac4-c453-4368-855a-d734fafc70a6,2025-02-25 12:23:29,Facebook Ads,4.012855746380263,Android,1.2,Motorola,Moto G Stylus,sms
+3f34ad5f-7b90-45a3-8df9-2b280ad98eb2,2025-01-01 10:18:51,Facebook Ads,0.9929244855202501,iOS,1.0,Apple,iPhone 12,email
+3a56714b-0904-4eda-b7d4-f94fbcea8898,2025-03-04 15:50:32,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,mms
+695e3b08-981a-4f63-a8d2-022e2f32c820,2025-02-27 22:50:52,Google Ads,2.0396664965527926,Android,1.2,Samsung,Galaxy S21,sms
+f3461576-32d0-4bcf-8733-246a3157e369,2025-01-26 21:05:00,Orgânico,0.0,Android,2.0,Xiaomi,Redmi Note 10,email
+ced0e5f9-4b39-46b5-8b2e-73b4d4564bbb,2025-01-08 19:55:18,Facebook Ads,2.223092206880762,Android,2.0,LG,Velvet,sms
+21a67327-b8dc-4b9c-9ea2-c6c0e8009000,2025-02-03 14:31:26,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,push
+2fe8501c-a462-4c8b-87fb-e06148066bea,2025-01-16 16:22:51,Facebook Ads,2.185739863785522,iOS,1.1,Apple,iPhone 12,sms
+bf93c100-b9c3-45cd-8431-36fa1b88aac0,2025-02-05 16:36:04,Google Ads,4.522274417662363,Android,1.0,LG,Wing,push
+7a13c9a6-2120-4c2e-960d-130684a0447b,2025-02-12 04:20:10,Google Ads,3.5225281079930646,iOS,1.0,Apple,iPhone 13,mms
+c641156f-5fe6-4149-a82c-037377010ad9,2025-01-24 21:55:14,Google Ads,4.679747888386493,iOS,1.1,Apple,iPhone 12,push
+ebae7007-670d-4de6-a71d-022677761bc5,2025-02-01 00:32:35,Orgânico,0.0,Android,1.2,LG,Velvet,email
+88b25508-723a-4b0c-9fb9-a4a09fdef703,2025-01-22 20:28:52,Facebook Ads,0.8515479524570466,Android,1.2,LG,K51,push
+8a98b52e-7782-4889-b57c-52964ad2e2eb,2025-03-19 19:41:29,Orgânico,0.0,Android,2.0,LG,Velvet,push
+780511d4-9aec-476d-afcf-9fa8c5fcd062,2025-02-26 21:22:53,Facebook Ads,1.2531408000956872,iOS,1.0,Apple,iPhone SE,email
+f141a689-5a31-4341-862b-c1c48d2c00fb,2025-03-03 21:07:22,Google Ads,4.877973959206975,Android,1.0,LG,Velvet,mms
+44d6e0f0-ff5a-4c8e-bf64-83eb0faaf01c,2025-03-30 18:45:14,Orgânico,0.0,Android,2.0,Motorola,Moto G Power,sms
+24d7b12c-8df9-4c09-9771-7517d8992e84,2025-02-07 04:14:04,Facebook Ads,3.2997115454703794,Android,1.0,Xiaomi,Poco X3,sms
+6d4866fc-0bbd-4131-85c1-2258341c8c0e,2025-02-02 08:52:24,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,email
+7699f07f-a27e-4c92-a93e-a8cd02e9148e,2025-01-15 15:15:07,Facebook Ads,4.175484166996828,iOS,1.2,Apple,iPhone SE,push
+c1ad83aa-8757-4a1f-a136-a1be974dd528,2025-03-07 06:26:32,Google Ads,3.254621759331262,iOS,1.0,Apple,iPhone 12,email
+d1a8f015-817d-4a6f-8516-954adaa3cc69,2025-01-11 05:56:11,Facebook Ads,3.756315001070811,iOS,2.0,Apple,iPhone 13,email
+c92a147d-b6aa-4609-bae2-fe310de94dd5,2025-02-19 01:48:27,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,mms
+41cefc6f-4b75-48cf-93a3-cabe9d1de625,2025-03-01 19:51:30,Facebook Ads,4.870515972757846,iOS,1.1,Apple,iPhone 13,mms
+577f1b90-5b1e-4db9-9cf6-596dc1ba4c10,2025-02-08 23:24:38,Facebook Ads,2.0622926418306973,Android,2.0,Xiaomi,Mi 11,email
+631fcad0-76b6-41aa-9994-488b202d945d,2025-03-28 01:51:29,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,mms
+5f9a7557-945f-4904-bcb5-9029a1d4038c,2025-02-01 23:29:53,Orgânico,0.0,Android,1.2,LG,Wing,email
+6abd5b5c-692e-455a-a1e3-5b440cfc00d1,2025-01-05 06:06:26,Google Ads,1.045526307295599,iOS,1.2,Apple,iPhone 13,email
+75cb325d-d2ba-4411-84b3-fb756bf5c004,2025-01-16 08:53:32,Google Ads,0.6706913210640151,iOS,1.0,Apple,iPhone 13,push
+aac5cb2e-edfe-4bb3-9ef7-fe6fb2c29a24,2025-01-24 01:17:54,Google Ads,3.1673736834032162,Android,2.0,Samsung,Galaxy M32,sms
+3682ff36-dd9a-455e-811d-af333caa001c,2025-02-21 16:22:33,Google Ads,1.423210255976748,iOS,1.2,Apple,iPhone 12,mms
+c0fbf9ec-e661-4cfe-aaac-175c63bded01,2025-02-06 09:58:24,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,mms
+936e3d04-1ef4-4b30-889f-44eb9cc69bbc,2025-03-02 07:09:39,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,email
+98fb5c78-4668-4a35-9b2c-04f7250313c8,2025-01-13 20:15:49,Facebook Ads,1.953981107325735,Android,1.2,LG,Velvet,mms
+3a5be3a9-1b6e-4937-8391-cf03df8e1c51,2025-02-15 02:02:02,Orgânico,0.0,Android,1.0,LG,Wing,push
+3f31b433-13f7-46cb-aa59-8614cdf584cf,2025-01-08 12:00:04,Orgânico,0.0,Android,1.1,LG,Velvet,mms
+9f87eb03-2d76-4885-8001-459f14d603c5,2025-03-16 02:32:37,Google Ads,3.402485930098197,Android,2.0,Samsung,Galaxy M32,sms
+8ee4a5e4-5dfc-46e3-9825-0f09c4e5dc18,2025-03-30 00:56:22,Google Ads,0.8181850158512549,Android,2.0,Samsung,Galaxy S21,sms
+6d3c53bd-f891-46ed-9d49-10ce0497c8c7,2025-01-28 23:30:39,Google Ads,0.3162858734555543,Android,1.2,Samsung,Galaxy M32,push
+62634c0a-17cc-4bf0-952e-3ac5a89b2c64,2025-01-30 04:45:15,Orgânico,0.0,Android,1.1,Motorola,Moto G Power,email
+7190f4eb-4efe-4c2d-89b3-cee3720a18ff,2025-03-21 23:55:17,Facebook Ads,1.096465144841328,iOS,1.1,Apple,iPhone SE,email
+4a60194e-7e9e-4ee6-9046-0e10634271ec,2025-03-29 11:12:01,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,mms
+5bc9b1a8-5542-4768-a32a-a5deb4991eab,2025-03-29 06:20:22,Google Ads,1.4044169382984375,Android,2.0,Motorola,Moto G Stylus,sms
+b5c7b105-0cc3-459b-93e6-12cd5f83a049,2025-01-29 01:41:15,Orgânico,0.0,Android,1.1,LG,Velvet,mms
+42e94853-f290-4b39-93a1-bb27983e6791,2025-03-26 08:39:51,Google Ads,3.0796349205297107,Android,2.0,Motorola,Moto Edge,sms
+2ba4e972-89a8-4d51-8fc9-e14fd746e84b,2025-03-08 01:52:21,Facebook Ads,4.33410615688022,Android,2.0,Motorola,Moto G Power,push
+c55be2ef-b592-4c97-a77e-251b77d307e1,2025-03-02 03:31:47,Facebook Ads,4.051490266954731,Android,1.1,LG,Wing,push
+6b282abe-109f-490b-8cd5-fedf9d2b73bd,2025-01-05 07:17:26,Google Ads,4.741385358008054,Android,1.0,Samsung,Galaxy A52,sms
+28acd53b-a90a-4c14-9034-60ff8a1291bb,2025-03-08 18:09:43,Facebook Ads,4.4856398193964,Android,1.0,Motorola,Moto Edge,sms
+56b3b3db-b555-48ed-b3be-1c4ccc86af10,2025-02-25 00:38:49,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,sms
+26e2badc-c8bf-414c-bb58-7f1fadedc6d3,2025-03-23 14:01:07,Google Ads,1.2294787848731314,Android,2.0,LG,K51,mms
+988b4b92-8ed9-43d2-beb5-3b577dd7fb92,2025-03-26 00:34:16,Google Ads,1.9300878363656024,iOS,1.0,Apple,iPhone 12,mms
+b5f8d83c-8eec-4fb2-90ee-0af11068b34d,2025-03-10 19:15:02,Facebook Ads,1.368940582543371,Android,1.1,Xiaomi,Redmi Note 10,mms
+08141c42-a3bf-4ff0-887e-bfe7515aaffb,2025-03-04 03:40:11,Google Ads,4.3189924894306495,Android,1.1,Motorola,Moto G Power,sms
+24f65ba1-bc39-442b-83fd-adcbfe3eba3d,2025-01-03 00:51:54,Google Ads,3.1610057702936554,Android,1.1,Samsung,Galaxy S21,push
+c5d31c5e-966f-445b-b3a6-72b4d89b9f3a,2025-03-15 18:41:00,Facebook Ads,4.783200515771916,iOS,1.0,Apple,iPhone 13,sms
+64e89ec7-2154-4266-b78d-b7c59f49e5c1,2025-02-04 09:25:01,Facebook Ads,2.432120626354595,Android,1.0,Motorola,Moto G Stylus,sms
+86a10b1e-db93-4779-afef-c1e533e3e06c,2025-03-27 06:46:55,Google Ads,2.3004416273864114,Android,1.0,LG,Velvet,sms
+b2e347f4-011c-4b67-869e-47dda3298bbe,2025-03-19 01:48:09,Google Ads,0.647152616193901,iOS,1.0,Apple,iPhone SE,email
+0eb5cc9d-dfb0-4fcb-838c-714af77ef87b,2025-01-01 20:27:37,Orgânico,0.0,Android,1.0,Motorola,Moto G Stylus,email
+92b1d2dc-0330-4dd5-b4f1-030fc477801d,2025-03-28 04:37:22,Facebook Ads,0.6350782920372632,Android,1.0,Motorola,Moto G Power,email
+19e9c089-ee67-48c6-98af-083664492e34,2025-01-18 21:32:05,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,push
+6d75033c-3c6b-45fb-9e27-358acd279788,2025-01-25 00:04:04,Facebook Ads,0.28175938079755714,Android,1.0,LG,Velvet,mms
+5f56ed1a-6b71-4127-809e-d1371e85d4e8,2025-03-12 08:48:36,Facebook Ads,0.46829423355062827,Android,2.0,Samsung,Galaxy A52,email
+2b7279f0-18e7-4459-905f-9de44c83b857,2025-02-23 16:32:39,Facebook Ads,4.912170100294825,Android,2.0,Motorola,Moto G Power,sms
+1f463379-b919-431b-aa3f-906f30d22def,2025-01-04 23:04:03,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,sms
+93fe565d-fa49-414c-a5c8-d19ee414e0b6,2025-01-05 23:09:24,Facebook Ads,0.4162260544471561,iOS,1.1,Apple,iPhone 13,sms
+21b8da9f-2d8b-4893-8f3f-fd0ec1e2d704,2025-02-27 00:15:16,Facebook Ads,1.3904410519223176,iOS,1.2,Apple,iPhone SE,sms
+7dc08401-8127-4198-9db6-e238a56143c3,2025-03-07 14:40:23,Google Ads,3.6695213022921793,Android,1.1,LG,Velvet,mms
+dcda0b8c-44f9-4dc3-83c6-a30c17bf71e4,2025-02-01 02:28:03,Orgânico,0.0,Android,1.0,Xiaomi,Redmi Note 10,email
+ba527d8e-a539-4860-9f32-d773b1e621ef,2025-01-30 20:59:28,Google Ads,2.2346629327413177,Android,1.0,Samsung,Galaxy A52,email
+9db89964-629e-43d4-8c3b-9e92e988e9c4,2025-03-09 23:23:35,Facebook Ads,3.8258841161331896,iOS,2.0,Apple,iPhone 13,push
+40ce6db7-6cad-4de7-a4f8-42ecf9282c25,2025-01-10 12:02:50,Google Ads,4.56038616000326,iOS,1.2,Apple,iPhone SE,email
+33af80a4-030a-494d-bc9c-155e2d49ba59,2025-01-31 05:53:17,Facebook Ads,1.7550159776587113,iOS,1.1,Apple,iPhone 13,email
+d4388746-786c-4718-9cf2-c24893bf5af1,2025-03-19 12:00:02,Facebook Ads,2.9968993378750675,Android,1.2,Samsung,Galaxy A52,mms
+2b6c4cee-5fe9-4fed-9041-13e914f157be,2025-02-10 18:57:07,Google Ads,4.499024701472897,Android,1.2,Xiaomi,Poco X3,mms
+65b306a5-5084-4692-b59f-8cad0913a885,2025-02-19 06:18:45,Google Ads,1.6939655078825926,iOS,2.0,Apple,iPhone 13,sms
+f8a199f2-4de5-4d47-a30c-ce5e88dcc365,2025-02-15 16:17:08,Facebook Ads,3.097360455227927,iOS,1.0,Apple,iPhone 13,push
+70ac56ca-ffbf-4cbe-909e-f32ed6dd63d7,2025-01-21 00:01:03,Google Ads,1.2471574836754191,iOS,1.0,Apple,iPhone 13,push
+d040eb68-729c-4fcb-ae3d-1983cc91fef5,2025-02-21 03:37:34,Orgânico,0.0,Android,1.1,LG,Velvet,push
+5af8e0b5-39f2-4c93-a3ea-3c369f72ea4f,2025-02-14 01:52:03,Facebook Ads,1.3536102392619214,iOS,1.0,Apple,iPhone SE,email
+52784a7b-961c-47ad-8f31-df49a3b8cce7,2025-02-08 15:35:32,Facebook Ads,4.612151052083239,iOS,2.0,Apple,iPhone 12,mms
+465dcea3-1685-4e4d-baba-32f93819433c,2025-01-24 20:15:52,Orgânico,0.0,Android,1.2,Xiaomi,Poco X3,push
+5bd28665-d39a-488a-aa04-e554ceee810d,2025-03-10 03:42:27,Google Ads,2.8452729935425194,Android,1.1,LG,K51,email
+a8656e5d-f01b-4886-9f7d-455e1de36102,2025-02-08 23:30:03,Facebook Ads,2.148369714494629,iOS,1.2,Apple,iPhone 12,sms
+81522868-7122-4e8d-9458-3524c2edd085,2025-02-24 11:05:36,Google Ads,0.1742020904821196,iOS,2.0,Apple,iPhone SE,mms
+63dfb531-8ab4-498d-a9bc-ac11c664e887,2025-03-04 04:12:21,Google Ads,4.618819299747016,Android,1.2,Xiaomi,Redmi Note 10,email
+fd7cec9c-9d21-4e45-885f-02b227daa186,2025-03-10 02:33:41,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,mms
+33095194-f6fb-453c-92e3-86bdf67355be,2025-03-04 18:59:20,Facebook Ads,2.7330954620372614,Android,1.1,Motorola,Moto Edge,push
+ccd466fa-ceb5-4a7b-9620-cc55dacdcabb,2025-03-17 16:13:21,Orgânico,0.0,Android,2.0,LG,Wing,sms
+11e9fbf8-ff53-4729-bd35-75dff7c7f749,2025-01-25 15:54:15,Facebook Ads,3.0050383949759687,iOS,1.1,Apple,iPhone SE,email
+8e578002-0cb5-41a5-a9d7-7756a35e1245,2025-01-14 10:01:59,Orgânico,0.0,Android,1.1,Xiaomi,Mi 11,mms
+bb18c6ad-dd79-4753-8b1a-718b3f4e9c0c,2025-03-24 21:49:20,Facebook Ads,2.949255744060903,Android,1.2,Motorola,Moto G Stylus,sms
+f4fdfa9d-cd2b-480f-866f-1355b90e63eb,2025-03-20 01:27:25,Google Ads,3.5314258652486075,iOS,1.2,Apple,iPhone 13,sms
+0d800fb9-b42d-4e2a-8c5f-8afc4c022485,2025-01-15 18:22:25,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,sms
+5957650d-969c-4bb2-b860-c76d2cdab8d4,2025-03-20 22:45:36,Facebook Ads,1.9188824926943238,Android,1.0,LG,Velvet,sms
+f028f84b-4b13-40ec-859a-e152dbd4355e,2025-02-20 03:32:14,Facebook Ads,4.5390377212493185,iOS,1.0,Apple,iPhone 13,sms
+04d72822-52c6-4bf2-8598-7c69a9efa826,2025-02-14 05:44:31,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,push
+9c06781f-a50e-40ec-8fd6-3f0f25b8329c,2025-01-22 21:21:57,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,mms
+ca22be34-02d1-4660-a0a0-11d3f8e0872e,2025-01-25 08:22:13,Facebook Ads,1.3488803774297722,Android,2.0,Samsung,Galaxy S21,push
+14fbf24a-3bd8-4c0c-97c4-e95664a6dbfb,2025-03-23 18:16:46,Google Ads,3.411944687905676,iOS,1.0,Apple,iPhone 13,mms
+aa019d61-d728-4a01-9c97-58ab8fae3097,2025-03-15 22:16:28,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,sms
+414d896b-fd10-420e-a5da-06ac9666344e,2025-02-03 02:31:19,Google Ads,4.047348290156616,Android,1.0,Xiaomi,Poco X3,push
+3194a9c7-7074-49bb-8d53-55ac2a451084,2025-02-24 13:33:14,Facebook Ads,0.9238875074991012,iOS,1.1,Apple,iPhone SE,sms
+ab31e924-e042-430b-af90-a7373b79fb92,2025-02-07 00:55:10,Google Ads,0.36805813663764864,Android,1.1,Xiaomi,Poco X3,mms
+f63021bd-e1da-4e7e-ba78-8329ebfc51fc,2025-02-10 22:08:23,Facebook Ads,3.8883408040746232,Android,1.0,LG,Wing,sms
+3343f865-3ed0-4f95-a8c4-452e30517b70,2025-03-06 08:31:36,Facebook Ads,0.4689033723222551,Android,1.0,Xiaomi,Poco X3,mms
+f26d46bc-5824-49c5-99ef-c46e6fbde397,2025-03-13 05:00:26,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,email
+5f401fa3-ebdc-4003-9ccf-0162e9226b4b,2025-02-15 22:24:42,Orgânico,0.0,Android,1.0,LG,Wing,sms
+5272456c-1d8f-4f31-b467-0bfa9813dfc5,2025-03-16 06:50:58,Google Ads,4.384203804390873,Android,1.0,Xiaomi,Mi 11,email
+b336dafa-76c2-49d5-b870-da02be87a225,2025-03-23 19:42:16,Facebook Ads,2.4115145388971455,iOS,1.1,Apple,iPhone 13,sms
+e79fe913-857b-4ac5-b58b-f17c415628d1,2025-01-21 00:37:55,Orgânico,0.0,Android,1.2,Motorola,Moto Edge,mms
+47fd1c32-c68f-4fab-a0fe-0790add52d07,2025-01-12 15:14:07,Orgânico,0.0,Android,1.0,Motorola,Moto G Power,email
+c991335f-de7e-4008-98bf-4be374796d6d,2025-02-09 01:16:21,Google Ads,3.316332037531904,iOS,2.0,Apple,iPhone SE,push
+f620843c-013d-49fc-a130-b64867d32486,2025-02-12 16:12:31,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,email
+2edbbd17-5d2d-4f90-a1b6-6135614978ee,2025-03-09 02:32:50,Google Ads,4.359122134852471,iOS,1.0,Apple,iPhone SE,push
+cb4bc69e-9b20-40bb-93c0-fe1665337785,2025-01-16 23:52:43,Google Ads,0.42712219577352417,Android,1.1,LG,K51,sms
+c7147b36-9f44-47e0-ab34-496cfdea1096,2025-01-05 14:51:10,Google Ads,4.021535063438495,iOS,2.0,Apple,iPhone 12,push
+e6d4768a-1a0f-4757-b037-2c1e27a9c9ea,2025-02-04 18:49:11,Orgânico,0.0,Android,1.1,Xiaomi,Mi 11,mms
+adb80924-47da-487d-9ebf-44ee96d049d5,2025-03-21 23:29:31,Google Ads,1.9485680171269615,iOS,1.1,Apple,iPhone 12,sms
+3b70e732-8c33-49fa-b8ea-bc162f936ad0,2025-03-26 04:18:55,Google Ads,1.1570560673595276,Android,2.0,Xiaomi,Redmi Note 10,sms
+20e572cd-e02a-4b92-b706-1aa34404a2b9,2025-03-10 00:07:51,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,push
+4f218545-a1be-49e2-9266-9df8d0f37a66,2025-02-08 22:02:06,Google Ads,1.847072402278749,iOS,2.0,Apple,iPhone 12,mms
+158c513f-ae6b-4ade-85df-e48f91f6274c,2025-02-07 22:59:03,Facebook Ads,2.681641275894977,iOS,1.0,Apple,iPhone 13,email
+75bea48e-4c69-45f9-9163-d9ff83ad7d4c,2025-02-18 21:33:12,Google Ads,3.9071396789774777,iOS,1.1,Apple,iPhone 13,email
+5a3b3330-2e68-4b61-bec9-b873c22cdad9,2025-01-07 22:24:18,Facebook Ads,1.5961124744971769,Android,2.0,LG,K51,mms
+674e39dc-0acc-42b0-865f-70156d425cb7,2025-03-04 03:06:55,Google Ads,1.9602602393367659,iOS,2.0,Apple,iPhone SE,email
+7569cb9e-e097-40cd-8fe6-55e91dd86bc8,2025-02-16 20:22:25,Facebook Ads,1.1307625201258076,Android,2.0,Xiaomi,Redmi Note 10,push
+750cf86c-0c52-4854-b425-c4a943262af6,2025-01-05 06:11:47,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,sms
+24db78d8-59e9-4bae-8b4e-eeaee92184dc,2025-02-22 07:58:43,Orgânico,0.0,Android,1.1,LG,Wing,mms
+2fa5924a-ac7e-45dc-9038-5f0b04c3d52a,2025-03-16 20:42:39,Facebook Ads,2.7841936482624434,iOS,2.0,Apple,iPhone SE,push
+1ac25f0d-a06c-4834-9c07-e2cad0e0428e,2025-02-26 10:59:23,Facebook Ads,1.1038899042934087,Android,1.0,Motorola,Moto G Stylus,push
+903e5254-d955-4556-bd69-2d34cfb6baaa,2025-02-03 11:49:05,Google Ads,3.8402320516503194,iOS,1.2,Apple,iPhone SE,push
+59d9572e-7f5b-4cb0-8eb2-0298e0481328,2025-01-17 20:46:12,Orgânico,0.0,Android,1.0,Motorola,Moto G Stylus,push
+20bd3136-28e0-4ad6-9dd7-88103c9eeff8,2025-01-17 19:51:38,Google Ads,3.8344023527918316,Android,1.0,Xiaomi,Redmi Note 10,sms
+2a6dcb48-f9b8-4cde-b7ce-f9780c23487d,2025-02-22 18:50:23,Orgânico,0.0,Android,1.1,Xiaomi,Mi 11,push
+5ae05795-d5de-4489-8722-0e66bcd7c118,2025-03-06 16:41:11,Google Ads,4.453622758239241,iOS,2.0,Apple,iPhone SE,email
+4e247ce3-d7cc-442d-8f64-d7b5251e53cb,2025-03-28 09:25:12,Orgânico,0.0,Android,1.2,LG,K51,push
+2b6449ef-8478-4765-8801-6eb42eadeac9,2025-03-04 08:48:34,Google Ads,4.545092729526498,Android,1.2,Motorola,Moto Edge,email
+fc776fce-86f5-4356-a47b-030700ab9122,2025-02-28 12:02:38,Facebook Ads,2.0764244752797385,iOS,1.0,Apple,iPhone SE,mms
+0f46e400-5a6f-4717-9266-370e1316f72d,2025-03-07 03:54:03,Google Ads,0.5093431173755989,Android,2.0,Xiaomi,Redmi Note 10,email
+9961225a-186b-4460-8574-7af8a4d0321b,2025-03-18 16:48:55,Facebook Ads,3.254123774372293,iOS,2.0,Apple,iPhone 13,mms
+de4583ff-51a8-4297-8a04-2f4c12f9c778,2025-03-12 09:15:09,Orgânico,0.0,Android,1.1,Motorola,Moto Edge,email
+4ca196b0-3ddf-4bf5-b831-a78edf3a6174,2025-01-19 17:31:32,Orgânico,0.0,Android,1.0,LG,Wing,email
+2c719885-3b62-48a4-b5ca-a7feb8cae69c,2025-03-25 09:13:34,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,mms
+b242706d-bec9-4fd9-adfa-b4ff4b053275,2025-01-31 20:04:53,Facebook Ads,0.13276154907400878,Android,2.0,Xiaomi,Poco X3,mms
+42cb2259-0671-4a7a-885a-11cdd20c6100,2025-02-12 03:32:58,Google Ads,3.3229433112756372,Android,1.2,Xiaomi,Poco X3,mms
+73123f10-1723-4f5b-b364-95068f09cbf6,2025-02-02 19:31:44,Facebook Ads,1.3809378015695852,iOS,1.0,Apple,iPhone 12,email
+e8430c83-780d-41b6-bffb-6f056355026e,2025-03-08 20:15:04,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,push
+7c32e9e6-eb64-45d9-8a61-1681e2d7d79c,2025-03-10 15:23:18,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+3e893fdf-22ee-4c7c-b582-916c0ce8cae8,2025-02-28 23:37:51,Facebook Ads,0.11582023702485963,iOS,1.1,Apple,iPhone 13,push
+3b8eed7a-8510-46a9-a27c-99ee94c6ac6b,2025-01-30 19:40:06,Google Ads,1.7775110264255882,Android,1.2,Samsung,Galaxy A52,sms
+3ed2dc9f-1ee0-4b77-bf84-e9062c4f5004,2025-02-12 22:38:09,Orgânico,0.0,Android,2.0,Samsung,Galaxy A52,push
+6c0f31b6-daf5-4245-9a3d-8030e61b2ad0,2025-03-13 16:05:09,Facebook Ads,3.797517485295889,Android,1.1,LG,Velvet,push
+4363c7c6-b2f7-4050-8178-17761703aa59,2025-02-01 00:14:51,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,sms
+7e077092-324c-4fd6-bb7b-12131149c208,2025-02-02 03:36:22,Orgânico,0.0,Android,1.0,Xiaomi,Poco X3,email
+b2e9296a-36a5-4442-8fea-fc59f862991b,2025-01-15 01:54:22,Facebook Ads,4.600377143097508,Android,1.0,LG,Wing,sms
+b90b066f-2aa2-4d5c-ad63-45c1447f5c13,2025-03-13 23:33:50,Google Ads,4.478764884646352,iOS,1.2,Apple,iPhone 13,email
+94e1f950-3852-46d3-b853-3e1b95310c1f,2025-02-11 08:11:52,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,mms
+9f51875f-053f-4d18-8ab6-9a15eb7d3588,2025-02-13 20:42:51,Orgânico,0.0,Android,1.0,Motorola,Moto Edge,email
+722e2a59-e2d4-4004-8c70-59c7c6ac5949,2025-01-07 15:01:20,Facebook Ads,2.6884093998031,Android,2.0,Motorola,Moto G Power,email
+6c49f058-0370-4952-ae25-3326e85536f0,2025-03-03 23:16:39,Google Ads,1.4511550494089236,Android,2.0,Motorola,Moto G Stylus,email
+4b37d4d5-6fa7-4eb6-a36b-018ec291a5a7,2025-01-15 03:57:38,Google Ads,3.603793402507858,Android,1.2,Motorola,Moto G Stylus,sms
+d18447c1-e14b-4ddd-aa8a-c1c38a7b35c7,2025-02-14 18:16:32,Facebook Ads,1.504516607773728,iOS,2.0,Apple,iPhone SE,push
+a3a1eacb-aa2f-4ede-a062-4f4a1f1dd6e0,2025-01-16 07:56:56,Facebook Ads,3.503311222919528,iOS,1.1,Apple,iPhone 12,email
+7c10dc40-92b1-4fce-b105-6d0624e8ad69,2025-02-07 02:47:48,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,sms
+a92f758a-0aa8-49ac-a3f0-5ff635e8a66c,2025-02-07 13:55:46,Facebook Ads,1.1409296927123036,Android,1.0,Motorola,Moto G Stylus,mms
+97344833-4b42-4891-bce2-cd46a94bc6b5,2025-02-26 19:20:00,Google Ads,3.251438330064963,iOS,1.0,Apple,iPhone SE,sms
+095149c9-5f5f-45b1-a639-3c1d153e7976,2025-01-28 19:55:21,Google Ads,2.8641875029230937,iOS,1.2,Apple,iPhone 12,sms
+faa25b15-8d36-400d-a841-fba54f7243d7,2025-01-27 00:10:52,Google Ads,0.17815147905076484,iOS,1.2,Apple,iPhone 13,email
+e0eeadd8-752b-4b92-aa6d-6867d9ac854a,2025-02-12 21:10:06,Orgânico,0.0,Android,1.1,LG,Wing,email
+3cc6bebf-8686-4139-8f3c-b1da75d472d6,2025-03-05 04:58:15,Google Ads,0.5207820594691183,iOS,2.0,Apple,iPhone 13,push
+1e0dcd9b-c1be-4a25-ad9b-3358c06a3bdb,2025-03-18 05:35:30,Facebook Ads,3.119539965973146,Android,2.0,Xiaomi,Mi 11,mms
+3b43d4b1-ba01-47c9-9e1c-86c65b9799ef,2025-02-19 23:03:39,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+0c4f9140-314c-44be-8c48-9205a043776c,2025-01-30 04:55:30,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,sms
+f7bd607a-0311-481e-9da9-c5f86bef8660,2025-01-30 03:43:02,Google Ads,0.9816490288567693,Android,2.0,Xiaomi,Mi 11,sms
+bfcf76ae-b86e-45f1-991c-67e0cc758d2c,2025-02-04 16:17:39,Google Ads,4.121790931627158,iOS,2.0,Apple,iPhone 12,email
+528b098d-f65e-4ecf-9083-6fce8e0f0f21,2025-03-02 01:14:30,Facebook Ads,3.87397964666911,Android,2.0,Motorola,Moto G Stylus,push
+e30dcea8-343a-4c68-ae1a-c846a5709b73,2025-03-24 04:55:23,Google Ads,0.5818445899794442,iOS,2.0,Apple,iPhone 13,sms
+9f6bd21d-a679-4c1d-9642-f5945cd781b6,2025-03-25 02:46:11,Google Ads,0.941568177209703,Android,1.0,Samsung,Galaxy M32,mms
+63434b95-9f7f-402d-989c-a2152132de9c,2025-03-07 23:36:18,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,push
+b7e88e14-6d4b-4b31-bfe9-ceda9ac2d5e0,2025-03-04 23:33:00,Orgânico,0.0,Android,1.0,Xiaomi,Poco X3,push
+83451f41-3b4a-4674-9816-597e1e27d383,2025-03-28 03:23:54,Google Ads,3.220124180389786,Android,1.2,LG,Velvet,sms
+b734b04f-fd64-436f-98e5-5df265a4713c,2025-03-02 08:00:34,Orgânico,0.0,iOS,1.0,Apple,iPhone 13,email
+16d241c1-0dc0-4eaa-9e0f-12f4bf11b8b8,2025-01-17 05:13:21,Google Ads,0.46459074807561773,Android,1.2,LG,K51,email
+ee241a4f-e0ac-4d42-b23c-9ea97507b9c1,2025-03-05 21:14:49,Facebook Ads,3.8098069708702376,iOS,1.2,Apple,iPhone 12,email
+6dc39954-4dc8-4b1e-aa98-c26e757086d2,2025-03-20 09:33:34,Facebook Ads,2.5819280415942676,iOS,2.0,Apple,iPhone SE,mms
+15082cf2-4889-4ea1-8fa8-2353a59edc10,2025-02-02 21:00:11,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,email
+0f8527e2-fc9a-4fb4-bc25-80202476abf9,2025-01-31 22:28:58,Orgânico,0.0,Android,1.0,Xiaomi,Mi 11,mms
+b5797f3d-d990-4c9c-9a0a-a99672f222cc,2025-02-16 19:26:33,Orgânico,0.0,Android,1.2,LG,Wing,push
+b1307bca-d084-4b6f-a1e8-f0a39ebe6de1,2025-03-29 16:13:30,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,mms
+0bfc76f2-f3f5-4092-8869-6326d3369020,2025-02-22 09:25:33,Facebook Ads,1.7563314996080515,Android,1.2,Samsung,Galaxy A52,email
+8e188632-af64-44fb-8b97-adb976bb062a,2025-02-12 11:30:06,Facebook Ads,3.0601352377396642,Android,1.1,Samsung,Galaxy A52,email
+8d9fe59a-c3af-47a8-8725-05f9f3ad3a8c,2025-02-03 23:30:30,Google Ads,2.679245285716724,iOS,2.0,Apple,iPhone 12,email
+34287fc9-72d4-4b26-8539-31fda2f5221f,2025-01-12 22:48:33,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,sms
+c8ac4914-cab1-4f53-a15b-24a53b6d3c28,2025-02-07 02:22:53,Google Ads,4.863382854725497,Android,2.0,Samsung,Galaxy A52,mms
+8a20a8fe-b273-4c81-bfcb-eb19bce63fee,2025-01-01 07:50:08,Facebook Ads,0.6617586367675219,iOS,1.0,Apple,iPhone 12,mms
+47b5d244-bb9e-4c14-a81f-ce229e48dc0c,2025-02-23 04:47:32,Google Ads,1.108411046367944,iOS,1.1,Apple,iPhone 13,mms
+84b8717c-7b7e-48b9-9fd1-75db29d19f12,2025-01-31 13:37:12,Orgânico,0.0,Android,1.0,LG,K51,sms
+4d57d5e9-5a01-41d4-ae9e-d38666e5d727,2025-02-04 01:48:51,Facebook Ads,2.9505019401422246,iOS,1.0,Apple,iPhone SE,push
+9c3830a4-f3e7-4d55-b1ba-56627935eca1,2025-01-21 01:24:30,Google Ads,0.632598568753643,Android,1.0,Xiaomi,Mi 11,sms
+5be44b4e-d7f7-4369-97c0-d0d1b5acb6b0,2025-02-06 19:36:06,Google Ads,1.9945884896285133,Android,1.0,Samsung,Galaxy M32,email
+506cf623-dbec-4ad3-9ccc-9b61ec697eb0,2025-01-23 10:14:40,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,mms
+db6a3ff8-375a-4a07-853a-5077a7ed511c,2025-01-05 10:01:36,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,mms
+07a87909-6be5-47ec-9b53-eaecee8541ce,2025-01-14 12:26:18,Facebook Ads,1.9849316618034092,Android,1.1,LG,K51,mms
+f3b49859-3d78-427f-80bb-f94793c46c9b,2025-03-20 22:22:27,Facebook Ads,3.3298125608007108,Android,1.0,Xiaomi,Poco X3,mms
+5f45e0f9-2175-4b4c-925c-ffaf5862afec,2025-01-01 08:33:11,Orgânico,0.0,Android,1.1,Motorola,Moto Edge,email
+ea879d90-1d62-4dfd-9924-26f58a3bdd36,2025-02-13 20:23:51,Google Ads,2.9274342195413983,iOS,2.0,Apple,iPhone 12,email
+2a69451b-3b95-4214-b3f3-181cdf6e4406,2025-03-10 02:51:02,Google Ads,4.646234337588945,Android,2.0,Samsung,Galaxy M32,mms
+9047cc57-308b-41ea-9755-321ce4ba287c,2025-03-07 14:44:22,Orgânico,0.0,Android,1.1,Samsung,Galaxy M32,sms
+e97ed101-6ad9-4c4d-a7f2-59d661e4255c,2025-03-09 09:50:14,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,sms
+de893431-5b48-4fd9-8e40-af9d6b241f8f,2025-02-22 09:05:37,Orgânico,0.0,Android,2.0,Xiaomi,Poco X3,mms
+448bb022-9de1-439c-903f-cbdaf2413987,2025-01-08 17:54:17,Facebook Ads,2.9507201707308495,iOS,1.0,Apple,iPhone 13,email
+37cecc45-a8ce-4738-bed1-6bd173e23bd4,2025-02-06 06:19:18,Google Ads,3.132829610867774,Android,2.0,Xiaomi,Redmi Note 10,push
+df071540-44e9-4db1-ae89-9c8f9af05f98,2025-02-11 12:05:29,Facebook Ads,2.0914857379653653,iOS,1.2,Apple,iPhone 13,push
+c8717082-5d12-45fd-98f1-432831a564f2,2025-02-07 19:15:03,Facebook Ads,0.6836251593218365,Android,2.0,Motorola,Moto Edge,email
+345662ad-8035-47be-bc89-f9b9b307eae9,2025-01-23 08:37:47,Facebook Ads,3.3714959988460427,iOS,1.0,Apple,iPhone 12,sms
+db46f814-1e19-4ba4-a93a-0e90a7b8d97b,2025-03-21 18:32:43,Orgânico,0.0,iOS,1.1,Apple,iPhone SE,push
+c964ebf7-bc7e-456c-86ff-1d01fe7163bb,2025-02-10 05:56:00,Orgânico,0.0,Android,1.2,Xiaomi,Mi 11,mms
+c9c58d53-b34f-466c-ac61-7f7a3698007a,2025-03-11 23:59:55,Orgânico,0.0,Android,1.1,LG,Wing,push
+5e0757c2-d33b-42b1-903f-3df90e6368c0,2025-03-11 13:34:24,Facebook Ads,1.3710955896613444,Android,1.0,Xiaomi,Poco X3,mms
+ca2b6389-20ba-4859-84ac-4e9027efabd9,2025-02-07 08:50:35,Google Ads,3.49955501012467,Android,1.0,Xiaomi,Redmi Note 10,mms
+4a3b426f-6a07-4814-bb55-ea91a57de027,2025-03-16 03:41:23,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,sms
+e185650b-b5e7-4780-a6e1-bf06f06a6979,2025-01-05 18:43:43,Orgânico,0.0,iOS,1.0,Apple,iPhone SE,sms
+3cb63c98-6875-4352-b67d-0b767b0b0e1f,2025-02-06 15:11:35,Orgânico,0.0,Android,1.2,LG,K51,mms
+0be1e4f1-d555-495c-ab1c-039f9bc8e296,2025-01-26 17:58:12,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,email
+f1b65a56-3cc0-42c9-a4fb-0b694605bdab,2025-01-03 13:00:55,Google Ads,3.0771176560664544,iOS,1.0,Apple,iPhone SE,mms
+7c8e953e-9cc7-481e-a4b2-6e8d1aefff89,2025-03-12 22:29:21,Google Ads,3.278739272437309,iOS,1.1,Apple,iPhone SE,push
+afb69869-1e95-4ca0-9456-52a23cb9011b,2025-02-12 09:09:49,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,email
+f700dd0c-0821-4ff7-8a47-f095b6cb14f0,2025-02-16 13:17:26,Google Ads,2.6496433834717874,Android,1.2,Samsung,Galaxy S21,sms
+f85be8ab-1077-4758-9ac2-1ef120477ba3,2025-01-24 13:42:11,Google Ads,3.3474994170184096,Android,1.2,Samsung,Galaxy S21,sms
+04738dee-defc-4bb6-b950-d23b3bdb8514,2025-01-24 09:00:04,Orgânico,0.0,Android,1.2,LG,Wing,email
+13f84baf-0559-462e-ae07-4ec20729a674,2025-01-20 17:07:05,Facebook Ads,2.7097370698761196,Android,1.0,Motorola,Moto G Stylus,email
+54e65fe2-8a5c-49ee-97cb-34876a8f350a,2025-01-31 20:38:22,Facebook Ads,1.5341124638773838,iOS,2.0,Apple,iPhone 12,push
+d2b1e162-d878-4348-8aba-31575afb83dd,2025-01-08 04:44:34,Orgânico,0.0,Android,2.0,Motorola,Moto G Stylus,email
+e4b08da6-651b-4c91-b365-ed09710d4785,2025-03-10 06:54:49,Orgânico,0.0,Android,1.0,LG,Wing,push
+9159758b-bf77-41df-99e6-1604680ed961,2025-02-15 10:08:29,Facebook Ads,4.548511224477274,iOS,1.0,Apple,iPhone SE,push
+8a07ee85-d54c-4024-8409-4f65c488975b,2025-03-15 20:43:17,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,push
+f0859cf0-30f1-4d48-991a-0ad32963e093,2025-02-13 01:19:56,Facebook Ads,4.014691939537532,iOS,1.0,Apple,iPhone SE,sms
+d01e26a6-50bf-42fe-a4bb-bbf79d9cafff,2025-02-12 16:37:14,Google Ads,3.7224665744764263,Android,1.2,Samsung,Galaxy S21,email
+6e8da409-5480-4ec9-bf56-9cea10f433bf,2025-01-17 01:46:28,Google Ads,3.919999839371705,iOS,1.2,Apple,iPhone SE,sms
+7742905f-02fc-4dd4-aff0-ee0490f0f89b,2025-01-03 22:54:07,Google Ads,4.174187248346913,Android,2.0,Motorola,Moto G Stylus,sms
+7133cffa-4387-430d-a95b-47e62487d5b8,2025-03-18 05:43:47,Facebook Ads,3.0072987008952046,iOS,2.0,Apple,iPhone 12,sms
+917d6db9-90b2-4a60-b15b-19fc7f89a371,2025-02-01 10:08:32,Google Ads,4.296330579361573,iOS,2.0,Apple,iPhone 13,mms
+04225de8-494c-4581-9ca1-e2237c60f7e3,2025-03-11 15:58:57,Google Ads,0.3971201923588631,iOS,1.2,Apple,iPhone SE,email
+e6081be7-a901-402d-b9af-ff9285bd52a1,2025-01-12 09:51:39,Google Ads,1.2963153427029062,Android,2.0,Motorola,Moto Edge,sms
+3f70a912-fa50-46ff-aeb6-086ba2fe2662,2025-02-23 05:45:52,Google Ads,0.7009595651234113,iOS,2.0,Apple,iPhone 12,mms
+dccb5ab9-a749-4f16-bc51-34572356d314,2025-01-12 22:18:32,Facebook Ads,1.5195734710266178,iOS,1.2,Apple,iPhone 12,mms
+4b9647b5-821a-487e-9640-f8b920faecad,2025-03-28 22:27:38,Google Ads,3.549346791152718,Android,1.2,Samsung,Galaxy A52,email
+2f055724-452e-4fae-ba5a-a556c45936ad,2025-03-14 16:55:22,Google Ads,3.1419686863645433,iOS,1.0,Apple,iPhone 12,mms
+56483e41-afee-4a63-8616-5a5fa8c0b235,2025-02-13 17:33:44,Google Ads,3.6143406209311193,iOS,2.0,Apple,iPhone 12,email
+4a78bc31-4280-4a86-a395-453c0eb1efac,2025-02-08 18:28:52,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,email
+b4acc992-9007-4817-aab8-6645312b5da3,2025-02-19 21:59:30,Orgânico,0.0,Android,1.1,Xiaomi,Poco X3,email
+fde2a59f-080b-4c76-9d75-2568c54cbaff,2025-03-17 03:20:18,Orgânico,0.0,Android,1.2,Motorola,Moto G Power,email
+accea75e-06f6-4d52-b475-ffb09a9d3536,2025-03-19 03:28:16,Google Ads,2.082838996159137,Android,1.0,Xiaomi,Redmi Note 10,push
+65ed5745-f53e-4643-b40b-8d0e8f70c487,2025-03-17 05:50:00,Google Ads,3.0302629977746154,Android,1.1,LG,Wing,email
+d66f93c9-5d00-420f-9489-4f8b37279a7b,2025-03-02 13:23:27,Orgânico,0.0,Android,1.1,LG,K51,email
+a9ed39c2-bd30-4b56-8cb6-c0ed361aa1cd,2025-02-10 12:33:38,Google Ads,2.620874200987547,Android,1.0,LG,Wing,email
+53c32c59-0e64-4eb2-b18a-419a314c5756,2025-01-08 20:26:29,Facebook Ads,0.5448026846859151,Android,1.1,Motorola,Moto G Power,mms
+e5ff3f77-4969-4f7a-92bf-5bd401c90b5c,2025-03-06 13:57:22,Facebook Ads,4.180431311268668,Android,1.0,Samsung,Galaxy S21,sms
+8baed88c-9b6d-4344-853a-8a9bf32bfa13,2025-01-20 23:43:44,Google Ads,4.101405784326979,Android,2.0,Motorola,Moto G Stylus,push
+51626bc9-3fae-4550-ac27-58510f28cce9,2025-02-27 02:58:23,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,email
+44159d84-4a1f-4460-a218-35f723015eaf,2025-01-29 17:22:27,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,mms
+f6f55f0d-d6af-4319-b474-18eaf5063a33,2025-03-15 21:38:24,Facebook Ads,2.745017717399117,iOS,2.0,Apple,iPhone SE,sms
+8e6a29ae-a2ee-423a-8a3c-1d1982d78761,2025-01-04 19:28:51,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+cf628548-7df4-4404-8d03-425194b77f35,2025-02-25 03:30:02,Orgânico,0.0,iOS,2.0,Apple,iPhone SE,sms
+f563e876-6cae-40ff-8f43-ad6a1e87a2ae,2025-01-01 05:20:18,Facebook Ads,0.4948488261811349,Android,1.1,Xiaomi,Mi 11,sms
+1a154933-a9a3-4105-9cba-a0d83f576939,2025-03-04 08:53:01,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,sms
+cc31b2e2-125c-40a2-9d02-7c0651d4de6f,2025-03-17 16:36:53,Orgânico,0.0,iOS,2.0,Apple,iPhone 13,sms
+f7c5d8e4-ff88-47f6-a9a4-3dcf55c33543,2025-01-22 13:15:39,Google Ads,3.2465438406001894,Android,1.1,LG,Velvet,email
+7171f826-33c1-4c9c-a8a9-ba7175f5da53,2025-02-08 11:57:29,Facebook Ads,3.6108233030233134,iOS,1.0,Apple,iPhone 13,email
+f91924b0-fc7d-4bc7-89a6-eb0699533c9c,2025-01-14 21:52:25,Google Ads,3.692414860869308,iOS,1.2,Apple,iPhone 12,push
+97de5860-12fa-484f-a869-2a139cc5eb9f,2025-02-13 21:42:45,Orgânico,0.0,iOS,1.2,Apple,iPhone SE,push
+22541800-6135-4b05-88b3-01c78a2bad81,2025-02-05 21:33:27,Google Ads,0.7853100249563698,iOS,2.0,Apple,iPhone SE,mms
+4c84943f-f3fc-4d2c-880c-4e82046a6444,2025-03-16 12:19:25,Facebook Ads,3.971801700277624,iOS,1.1,Apple,iPhone SE,email
+99c4d637-d8f8-4e35-a769-dfac22b738ba,2025-02-22 00:56:11,Google Ads,0.5749519781625678,iOS,1.2,Apple,iPhone SE,email
+e8e2b1f5-58a9-4136-bc99-4d623b22d7f5,2025-02-22 19:59:37,Facebook Ads,1.0023791774206656,iOS,1.2,Apple,iPhone SE,sms
+014811dd-26cd-4cc3-b415-6bff047c53d8,2025-01-17 00:18:38,Google Ads,3.910282143413672,Android,1.1,Xiaomi,Redmi Note 10,sms
+1812a2a4-3eba-44ab-98dc-8fc607b28fee,2025-01-17 14:06:13,Orgânico,0.0,Android,2.0,Xiaomi,Poco X3,sms
+e9585d6f-5ae8-4975-ad3c-fd31cb3e7877,2025-01-27 19:14:23,Facebook Ads,3.3729008337472757,Android,1.2,Xiaomi,Mi 11,mms
+34f4a900-9347-4842-bd14-2b445783344d,2025-02-24 13:00:22,Facebook Ads,1.6807546419713475,iOS,1.0,Apple,iPhone 12,sms
+a907415f-94c9-4c91-80b2-489759866661,2025-03-29 22:59:26,Google Ads,0.4029741196123239,iOS,1.1,Apple,iPhone 12,push
+ec1959ba-a697-4e6b-9d73-b3947fdbd6ef,2025-01-24 11:32:26,Orgânico,0.0,Android,1.2,LG,Velvet,push
+b4a3e4c5-d70b-499b-8129-69c75803ee16,2025-02-25 04:29:23,Facebook Ads,3.7259070202157214,iOS,2.0,Apple,iPhone 13,mms
+553ee130-84f6-453e-bb54-345a72aaefdb,2025-03-01 15:22:33,Facebook Ads,4.498605604942598,iOS,2.0,Apple,iPhone 13,mms
+4fc11176-8a32-407f-a1e9-75dce4c9f0b2,2025-03-28 01:30:32,Orgânico,0.0,iOS,1.2,Apple,iPhone 13,email
+125261fd-ae0f-4a17-8ee4-01e73f588110,2025-03-02 22:02:44,Orgânico,0.0,iOS,1.1,Apple,iPhone 12,email
+b4f393bd-438d-47c0-9e38-c51c5211b6e0,2025-03-25 12:23:30,Google Ads,1.663286639189957,Android,1.1,LG,Velvet,mms
+4d4bedf1-e43f-4f59-9336-3985ee3a821f,2025-03-24 19:04:59,Orgânico,0.0,iOS,1.2,Apple,iPhone 12,push
+741d5701-ec9f-4593-b2aa-5ea8c1db38af,2025-03-19 19:30:21,Facebook Ads,2.9698887526498168,iOS,2.0,Apple,iPhone 12,email
+656554c0-6fa6-49fe-8945-30dfbf0c5d0d,2025-02-11 19:34:04,Google Ads,1.4708202597634017,Android,1.0,LG,Wing,push
+1e5a574f-8044-44bf-8a2f-47cc371281f1,2025-01-25 02:41:49,Facebook Ads,3.644056491109484,Android,1.1,Motorola,Moto G Power,email
+3f2ac0ee-eac9-47ee-a301-a868600f9f84,2025-02-11 17:24:17,Facebook Ads,2.0153483281759486,Android,1.2,Samsung,Galaxy A52,mms
+66a617e1-3f86-4440-a6fc-dad202f2bebe,2025-01-15 03:33:23,Orgânico,0.0,iOS,1.1,Apple,iPhone 13,mms
+8c9e4168-407f-4549-9c1c-3d8d452ec476,2025-01-23 10:31:40,Orgânico,0.0,Android,1.1,Xiaomi,Redmi Note 10,push
+0e085fa7-a9dd-4346-8f7c-5e576d2e63db,2025-02-16 23:58:11,Google Ads,3.923976177003703,iOS,1.1,Apple,iPhone 13,mms
+0858848a-dab6-46ed-9339-73d9b6f22627,2025-03-25 12:35:13,Google Ads,3.365901104674091,Android,1.1,LG,Velvet,push
+a3cd6437-0cea-4b58-b7c6-f6ecafd7c458,2025-03-08 21:29:00,Orgânico,0.0,iOS,2.0,Apple,iPhone 12,sms
+34610315-329e-47d6-a93d-291a294e6d44,2025-01-14 07:09:30,Google Ads,2.6073774788348025,Android,1.1,LG,Velvet,push
+c9b81663-1ae0-468b-9490-fc098811ebf5,2025-03-19 01:27:08,Google Ads,3.2046755449268094,Android,1.1,Motorola,Moto G Stylus,mms
+fe40bf78-18d6-4716-be21-dab339ba92cb,2025-03-23 17:28:04,Facebook Ads,1.9836436940796447,Android,1.2,LG,K51,sms
+cdcb2abd-07bc-4e31-8f50-ccf3c1d6e2fe,2025-01-08 14:32:49,Facebook Ads,3.3997732904395868,Android,1.0,Xiaomi,Mi 11,mms
+40da32b8-3e12-491d-a1c5-8326c2f96123,2025-02-15 22:29:21,Facebook Ads,4.906790599047918,iOS,2.0,Apple,iPhone SE,mms
+d1926e38-4ad3-45d9-9090-188f12430e79,2025-01-17 01:48:21,Google Ads,2.744519272205035,Android,1.1,LG,Wing,sms
+00acae25-1a99-41ed-8def-326cc6c76306,2025-01-26 19:55:06,Facebook Ads,1.8299891044276113,iOS,2.0,Apple,iPhone SE,sms
+05fcc3e4-cad8-415a-8f82-1c98646c427e,2025-02-09 02:45:01,Facebook Ads,0.7695204983438099,Android,2.0,Xiaomi,Redmi Note 10,sms
+19458e79-8bcb-4e20-af2f-cbc498a727a6,2025-03-08 02:51:09,Facebook Ads,3.727167629559653,iOS,1.2,Apple,iPhone SE,sms
+c0cec131-671b-4799-8277-1bb3ea1c45a5,2025-02-09 05:44:36,Facebook Ads,0.6807326262297919,Android,1.1,Samsung,Galaxy M32,email
+ecebb6f8-34f9-42c4-9f8b-42633f0608ab,2025-01-22 23:05:14,Orgânico,0.0,iOS,1.0,Apple,iPhone 12,sms
+cad4ffdc-2293-414e-b961-2c323de39d0c,2025-02-13 13:45:45,Orgânico,0.0,Android,2.0,Motorola,Moto Edge,sms
